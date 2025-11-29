@@ -92,7 +92,7 @@ Me especializo en construir soluciones técnicas que combinan modelos de Machine
 
 </details>
 
-<summary><bEN English</b></summary>
+<summary><bᴇɴ English</b></summary>
 
 ### 👨‍🎓 Professional Profile
 
@@ -145,6 +145,9 @@ My work focuses on developing intelligent systems that combine machine learning,
 - Focus areas: AI, computer vision, numerical analysis, scientific programming, statistics  
 - Experience with Python, R, MATLAB, and LaTeX  
 - Participation in interdisciplinary engineering, environmental, and energy-related projects
+
+
+</details>
 
 
 ---
