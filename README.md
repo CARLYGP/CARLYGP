@@ -3,7 +3,7 @@
 
 
   <!-- Animated Typing -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=800&lines=CAD+and+Design+Expert;AI+and+Bioengineering+Researcher;Automation+and+Control+Systems+Expert;IoT+Solutions+Architect;RL+for+Control+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=800&lines=AI+Developer;3D+Reconstruction;Computer+Vision;Machine+Learning;Scientific+Computing" alt="Typing SVG" />
 
 
 ## 🔗 Connect with Me
