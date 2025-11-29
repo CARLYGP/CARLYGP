@@ -1,8 +1,11 @@
-# 
-<!-- Modern Animated Banner Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,11&height=250&section=header&text=Samuel%20David%20Sanchez%20Cardenas&fontSize=45&fontAlignY=35&desc=Mechatronics%20Engineering%20•%20Embedded%20Systems%20•%20CAD%20Design&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Carlos%20Gal%C3%A1n%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist&descSize=18&descAlignY=55&textBg=false"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=CARLYGP">
+    <img src="https://komarev.com/ghpvc/?username=CARLYGP&label=Profile%20views&color=00FFFF&style=flat-square" alt="CARLYGP's profile views" />
+  </a>
+</p>
   <!-- Animated Typing -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=800&lines=CAD+and+Design+Expert;AI+and+Bioengineering+Researcher;Automation+and+Control+Systems+Expert;IoT+Solutions+Architect;RL+for+Control+Systems" alt="Typing SVG" />
 
