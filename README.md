@@ -27,9 +27,6 @@
 
 
   
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=samsanchezcar&style=flat-square&color=0ea5e9" alt="Profile Views" />
-</div>
 
 ---
 
@@ -37,7 +34,7 @@
 <tr>
 <td width="65%" valign="top">
 
-## 🌍 About Me / Sobre Mí / Über Mich
+## 🌍 About Me / Sobre Mí 
 
 <details open>
 <summary><b>🇪🇸 Español</b></summary>
@@ -131,47 +128,7 @@ I am a **Mechatronics Engineering** student at the **National University of Colo
 
 </details>
 
-<details>
-<summary><b>🇩🇪 Deutsch</b></summary>
 
-### 👨‍🎓 Berufsprofil
-
-Ich bin Student der **Mechatronik** an der **Nationalen Universität Kolumbiens (UNAL)**, derzeit im 9. Semester mit einem Notendurchschnitt von **4,6/5,0**. Meine Leidenschaft liegt an der Schnittstelle von mechanischem Design, Elektronik und Programmierung, wobei ich innovative Lösungen schaffe, die Hardware und Software kombinieren.
-
-### 🎯 Spezialisierungsbereiche
-
-- **🤖 Eingebettete Systeme**: Entwicklung mit Arduino, ESP32, PIC18F4550 und FPGA
-- **📐 CAD-Design & Simulation**: AutoCAD, Fusion 360, Inventor, ANSYS (FEA/CFD)
-- **🔧 Automatisierung & Regelung**: SPS, MATLAB/Simulink, PID-Regelung, SCADA-Systeme
-- **📡 IoT & Konnektivität**: LoRaWAN, BLE, industrielle Kommunikationsprotokolle
-- **🤖 Maschinelles Lernen**: Reinforcement Learning für Regelsysteme
-
-### 🏢 Organisatorische Erfahrung
-
-#### 🔬 **Kyma** - Forscher
-- **Turing-Projekt**: Entwicklung von Reinforcement-Learning-basierten Reglern für industrielle Anlagensteuerung
-- Implementierung von Simulations- und Evaluierungsframeworks
-- Sim-to-Real-Transfer und Hardware-in-the-Loop (HIL) Experimente
-
-#### 🦾 **Protos UNAL** - Koordinator
-- **Protse-Projekt**: Design und Kalibrierung von FSR-Sensorarrays für Prothesen
-- Bewertung der Auswirkungen von Knochenvorsprüngen auf Residualgliedmaßen
-- Koordination mit klinischen Mitarbeitern und Protokollentwicklung
-
-### 🚀 Hervorgehobene Projekte
-
-- **🎹 SynthIce**: FPGA-basierter digitaler Synthesizer mit mechanischen Sensoren
-- **🌡️ IoT LoRaWAN**: Fernüberwachungssystem mit ESP32 und Cloud-Dashboard
-- **❄️ Flüssigkeitskühlsystem**: Thermische und CFD-Optimierung mit ANSYS + CAD
-- **🏭 Adaptive Regelung**: Temperaturregelsystem mit Arduino und PID-Algorithmen
-
-### 🎓 Akademischer Hintergrund
-
-- **Mechatronik** - Nationale Universität Kolumbiens
-- **Notendurchschnitt**: 4,6/5,0 | **Erwarteter Abschluss**: Juli 2026
-- **Relevante Kurse**: Automatische Regelung, Robotik, Eingebettete Systeme, Computergestützte Strömungsmechanik
-
-</details>
 
 ---
 
