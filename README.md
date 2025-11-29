@@ -264,12 +264,12 @@ My work focuses on developing intelligent systems that combine machine learning,
 
 <div align="center">
 
-| 🎷 Hobbies | 🌍 Languages | 💻 OS |
+| 🏓 Hobbies | 🌍 Languages | 💻 OS |
 |:---:|:---:|:---:|
-| 3D Printing | ES (Native) | Linux Mint |
-| Saxophone (Jazz) | EN (C1) | Windows |
-| Hiking | DE (A2) | Android |
-| Coffee Brewing |  |  |
+| Table tennis | ES (Native) | Linux Mint |
+| Competitive Programming | EN (B2) | Windows |
+| Travel | DE (A2) | |
+|Football  |  |  |
 
 </div>
 
