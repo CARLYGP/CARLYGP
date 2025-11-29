@@ -92,51 +92,59 @@ Me especializo en construir soluciones técnicas que combinan modelos de Machine
 
 </details>
 
-<summary><b>EN English</b></summary>
+<summary><bᴇɴ English</b></summary>
 
 ### 👨‍🎓 Professional Profile
 
-I am a **Mechatronics Engineering** student at the **National University of Colombia (UNAL)**, currently in my 9th semester with a GPA of **4.6/5.0**. My passion lies at the intersection of mechanical design, electronics, and programming, creating innovative solutions that combine hardware and software.
+I am an **Applied Mathematics and Computer Science** student passionate about **Artificial Intelligence**, **Computer Vision**, **3D Reconstruction**, and **Scientific Computing**.  
+My work focuses on developing intelligent systems that combine machine learning, geometric processing, numerical methods, and advanced data analysis.
 
 ### 🎯 Areas of Specialization
 
-- **🤖 Embedded Systems**: Development with Arduino, ESP32, PIC18F4550, and FPGA
-- **📐 CAD Design & Simulation**: AutoCAD, Fusion 360, Inventor, ANSYS (FEA/CFD)
-- **🔧 Automation & Control**: PLCs, MATLAB/Simulink, PID control, SCADA systems
-- **📡 IoT & Connectivity**: LoRaWAN, BLE, industrial communication protocols
-- **🤖 Machine Learning**: Reinforcement Learning applied to control systems
+- **📸 Computer Vision & 3D**: SLAM3R, MASt3R, COLMAP, point clouds, PCA alignment, Manhattan frames  
+- **🧠 Machine Learning & Deep Learning**: YOLOv11, transfer learning, classification, detection, clustering  
+- **📊 Data Science & Statistics**: R, Python, multivariate analysis, PCA, K-means, econometrics  
+- **🧮 Scientific Computing**: MATLAB, numerical methods, interpolation, cubic splines, least squares  
+- **⚙️ Software & Automation**: APIs, FastAPI, pipelines, dashboards, data engineering basics  
+- **🤖 Applied AI**: recommendation systems, intelligent assistants, basic reinforcement learning  
 
-### 🏢 Organizational Experience
+### 🏢 Project and Research Experience
 
-#### 🔬 **Kyma** - Researcher
-- **Turing Project**: Development of Reinforcement Learning-based controllers for industrial plant control
-- Implementation of simulation and evaluation frameworks
-- Sim-to-real transfer and hardware-in-the-loop (HIL) experiments
+#### 🏠 **3D Reconstruction & SLAM**
+- Full pipeline for reconstructing indoor spaces from video  
+- Point cloud processing: scaling, alignment, floor/wall extraction, object recognition  
+- Integration with **SpatialLM** for semantic understanding of 3D environments
 
-#### 🦾 **Protos UNAL** - Coordinator
-- **Protse Project**: Design and calibration of FSR sensor arrays for prosthetics
-- Evaluation of bony protuberance effects on residual limbs
-- Coordination with clinical collaborators and protocol development
+#### 🌱 **AgroScan** – Crop Disease Detection (YOLOv11)
+- Training and deployment of YOLO models for tomato, potato, and maize disease detection  
+- Streamlit/Gradio UI, interpretability tools, and real-time visualization
 
-#### 📚 **Teaching Assistant** - Finance (2025-present)
-- Teaching support for finance course
-- Student mentoring and educational material development
+#### 👥 **Crowd Detection System**
+- Person counting + heatmaps for security cameras  
+- YOLOv11m/l models with custom post-processing and heatmap generation
+
+#### 🗺️ **AI Tourist Assistant**
+- Layla-like Bogotá guide using Overpass API, FastAPI, maps, and LLM-based reasoning  
+- Personalized path planning and recommendation logic
+
+#### 🌿 **Environmental Research**
+- Study on composting, urban agriculture, and sustainable practices among university students  
+- Survey design, statistical analysis, and academic reporting
 
 ### 🚀 Featured Projects
 
-- **🎹 SynthIce**: FPGA-based digital synthesizer with mechanical sensors
-- **🌡️ IoT LoRaWAN**: Remote environmental monitoring system with ESP32 and cloud dashboard
-- **❄️ Liquid Cooling System**: Thermal and CFD optimization with ANSYS + CAD
-- **🏭 Adaptive Control**: Temperature control system with Arduino and PID algorithms
+- **🧱 SLAM3R Pipeline**: Scaling, PCA alignment, wall segmentation, and full 3D preprocessing  
+- **📦 Object Detection Toolkit**: End-to-end YOLOv11 training and inference scripts  
+- **📊 IMDEC Index**: Multidimensional economic–social index built in R  
+- **🧪 MATLAB Numerical Suite**: splines, interpolation, least squares, differential geometry  
+- **🌐 Geometry Tools**: geodesics, curvature computation, and visualization scripts
 
 ### 🎓 Academic Background
 
-- **Mechatronics Engineering** - National University of Colombia
-- **GPA**: 4.6/5.0 | **Expected Graduation**: July 2026
-- **Relevant Courses**: Automatic Control, Robotics, Embedded Systems, Computational Fluid Mechanics
-
-</details>
-
+- **Applied Mathematics and Computer Science**  
+- Focus areas: AI, computer vision, numerical analysis, scientific programming, statistics  
+- Experience with Python, R, MATLAB, and LaTeX  
+- Participation in interdisciplinary engineering, environmental, and energy-related projects
 
 
 ---
