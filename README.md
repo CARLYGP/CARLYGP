@@ -181,7 +181,7 @@ My work focuses on developing intelligent systems that combine machine learning,
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,r,julia,ts&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,r,ts&perline=6" />
 </p>
 
 ### AI & Machine Learning
