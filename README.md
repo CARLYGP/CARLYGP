@@ -1,6 +1,4 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Carlos%20Gal%C3%A1n%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist&descSize=18&descAlignY=55&textBg=false"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=20,21,22,23&text=Carlos%20Gal%C3%A1n%20&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist&descSize=18&descAlignY=55&textBg=false"/>
 
   <!-- Animated Typing -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=800&lines=AI+Developer;3D+Reconstruction;Computer+Vision;Machine+Learning;Scientific+Computing" alt="Typing SVG" />
