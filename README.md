@@ -25,9 +25,6 @@
   </a>
 </p>
 
-
-  
-
 ---
 
 <table>
@@ -194,7 +191,7 @@ My work focuses on developing intelligent systems that combine machine learning,
 
 ### Web & API Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,html,css,js&perline=6" />
+  <img src="https://skillicons.dev/icons?i=fastapi,html,css,js&perline=6" />
 </p>
 
 ### Development Tools
