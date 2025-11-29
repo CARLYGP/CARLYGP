@@ -33,7 +33,7 @@
 <table>
 <tr>
 <td width="65%" valign="top">
-## 🌍 About Me / Sobre Mí 
+🌍 About Me / Sobre Mí 
 
 <details open>
 <summary><b>🇪🇸 Español</b></summary>
