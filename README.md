@@ -268,8 +268,8 @@ My work focuses on developing intelligent systems that combine machine learning,
 |:---:|:---:|:---:|
 | Table tennis | ES (Native) | Linux Mint |
 | Competitive Programming | EN (B2) | Windows |
-| Travel | DE (A2) | |
-|Football  |  |  |
+| Travel |  | |
+| Football  |  |  |
 
 </div>
 
