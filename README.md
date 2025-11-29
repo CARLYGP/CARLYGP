@@ -6,6 +6,9 @@
   </a>
 </p>
 
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/carlos-andr%C3%A9s-galan-p%C3%A9rez-37116b387/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/573163881131" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:carlos.galan@urosario.edu.co" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
 ## 📌 About Me
 - 💡 Passionate about the ethical and innovative application of data analytics and artificial intelligence to solve real world problems and create a positive impact on society. I am characterized by my perseverance, curiosity, commitment to continuous learning, and willingness to take on new challenges.
 - 🎯 Currently seeking an internship that allows me to apply my knowledge, strengthen both technical and soft skills, and contribute to the development of high-value projects in data science, AI, and technology.
@@ -46,8 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CARLYGP&layout=compact&theme=dracula&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/carlos-andr%C3%A9s-galan-p%C3%A9rez-37116b387/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/573163881131" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:carlos.galan@urosario.edu.co" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
