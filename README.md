@@ -13,7 +13,12 @@
 
 
 ## 🧠 My Focus Areas
--  Python, SQL, Machine Learning, Deep Learning, statistical data analysis, and data visualization. I complement my technical background with critical thinking, problem-solving, adaptability, and teamwork skills.
+- Python,
+- SQL
+- Machine Learning
+- Deep Learning
+- Statistical data analysis
+-  visualization
 
 
 ## 📊 GitHub Stats & Trophies
