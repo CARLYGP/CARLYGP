@@ -33,7 +33,6 @@
 <table>
 <tr>
 <td width="65%" valign="top">
-
 ## 🌍 About Me / Sobre Mí 
 
 <details open>
@@ -41,49 +40,59 @@
 
 ### 👨‍🎓 Perfil Profesional
 
-Soy estudiante de **Ingeniería Mecatrónica** en la **Universidad Nacional de Colombia (UNAL)**, actualmente en mi 9ª matrícula con un promedio de **4.6/5.0**. Mi pasión radica en la intersección entre el diseño mecánico, la electrónica y la programación, creando soluciones innovadoras que combinan hardware y software.
+Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación**, apasionado por la **Inteligencia Artificial**, la **Visión por Computador**, la **Reconstrucción 3D** y la **Computación Científica**.  
+Me especializo en construir soluciones técnicas que combinan modelos de Machine Learning, procesamiento geométrico, optimización numérica y análisis avanzado de datos.
 
 ### 🎯 Áreas de Especialización
 
-- **🤖 Sistemas Embebidos**: Desarrollo con Arduino, ESP32, PIC18F4550, y FPGA
-- **📐 Diseño CAD y Simulación**: AutoCAD, Fusion 360, Inventor, ANSYS (FEA/CFD)
-- **🔧 Automatización y Control**: PLCs, MATLAB/Simulink, control PID, sistemas SCADA
-- **📡 IoT y Conectividad**: LoRaWAN, BLE, protocolos de comunicación industrial
-- **🤖 Machine Learning**: Reinforcement Learning aplicado a sistemas de control
+- **📸 Computer Vision & 3D**: SLAM3R, MASt3R, COLMAP, nubes de puntos, alineación PCA, Manhattan Frames  
+- **🧠 Machine Learning & Deep Learning**: YOLOv11, Transfer Learning, clasificación, detección, clustering  
+- **📊 Data Science y Estadística**: R, Python, análisis multivariado, ACP, K-means, econometría  
+- **🧮 Computación Científica**: MATLAB, métodos numéricos, interpolación, splines cúbicos, mínimos cuadrados  
+- **⚙️ Ingeniería de Software y Automatización**: APIs, FastAPI, pipelines, dashboards interactivos  
+- **🤖 Aplicaciones de IA**: sistemas de recomendación, asistentes inteligentes, RL básico  
 
-### 🏢 Experiencia Organizacional
+### 🏢 Experiencia en Proyectos y Laboratorios
 
-#### 🔬 **Kyma** - Investigador
-- **Proyecto Turing**: Desarrollo de controladores basados en Reinforcement Learning para control de plantas industriales
-- Implementación de frameworks de simulación y evaluación
-- Transferencia sim-to-real y experimentos hardware-in-the-loop (HIL)
+#### 🏠 **Reconstrucción 3D y SLAM**
+- Desarrollo de un sistema completo para reconstruir espacios interiores en 3D a partir de video  
+- Procesamiento de nubes de puntos: escalado, alineación, detección de paredes y objetos  
+- Integración de **SpatialLM** para reconocimiento estructural
 
-#### 🦾 **Protos UNAL** - Coordinador
-- **Proyecto Protse**: Diseño y calibración de matrices de sensores FSR para prótesis
-- Evaluación del efecto de protuberancias óseas en extremidades residuales
-- Coordinación con colaboradores clínicos y desarrollo de protocolos
+#### 🌱 **AgroScan** – Detección de enfermedades en cultivos (YOLOv11)
+- Entrenamiento y despliegue de modelos YOLO para enfermedades en tomate, papa y maíz  
+- UI en Streamlit/Gradio, visualización avanzada y explicación de resultados
 
-#### 📚 **Monitor Académico** - Finanzas (2025-presente)
-- Apoyo docente en curso de finanzas
-- Asesoría a estudiantes y desarrollo de material didáctico
+#### 👥 **Crowd Detection**
+- Sistema de conteo de personas y heatmaps para cámaras de seguridad  
+- Modelos YOLOv11m/l y postprocesamiento visual
+
+#### 🎒 **Asistente Turístico Inteligente**
+- Asistente tipo "Layla" para Bogotá con rutas, mapas, Overpass API y FastAPI  
+- Integración de LLMs para recomendaciones personalizadas
+
+#### 🌿 **Investigación Ambiental y Social**
+- Proyecto sobre compostaje, huertas urbanas y educación ambiental en Bogotá  
+- Encuestas, análisis estadístico, informes y visualización
 
 ### 🚀 Proyectos Destacados
 
-- **🎹 SynthIce**: Sintetizador digital basado en FPGA con sensores mecánicos
-- **🌡️ IoT LoRaWAN**: Sistema de monitoreo ambiental remoto con ESP32 y dashboard en la nube
-- **❄️ Liquid Cooling System**: Optimización térmica y CFD con ANSYS + CAD
-- **🏭 Control Adaptativo**: Sistema de control de temperatura con Arduino y algoritmos PID
+- **🧱 SLAM3R Pipeline**: alineación, escalado y procesamiento total de nubes 3D  
+- **📦 Object Detection Toolkit**: scripts para entrenar, evaluar y desplegar YOLOv11  
+- **📊 IMDEC**: Indicador multidimensional económico-social con R  
+- **🧪 MATLAB Scientific Computing Suite**: interpolación, splines, mínimos cuadrados, geodesias  
+- **🔢 Differential Geometry Tools**: visualización y cálculo de geodésicas, curvatura, formas fundamentales
 
 ### 🎓 Formación Académica
 
-- **Ingeniería Mecatrónica** - Universidad Nacional de Colombia
-- **GPA**: 4.6/5.0 | **Graduación esperada**: Julio 2026
-- **Cursos relevantes**: Control Automático, Robótica, Sistemas Embebidos, Mecánica de Fluidos Computacional
+- **Matemáticas Aplicadas y Ciencias de la Computación**  
+- Enfoque en IA, visión por computador, métodos numéricos y estadística  
+- Experiencia con Python, R, MATLAB, LaTeX y herramientas de cómputo científico  
+- Participación en proyectos interdisciplinarios de ingeniería, agricultura, turismo y energía
 
 </details>
 
-<details>
-<summary><b>🇬🇧 English</b></summary>
+<summary><b>EN English</b></summary>
 
 ### 👨‍🎓 Professional Profile
 
