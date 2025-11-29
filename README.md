@@ -212,25 +212,12 @@ I specialize in building technical solutions that combine Machine Learning model
 
 ---
 
-## 🎯 Current Focus
-
-### 🔬 Research & Development
-- **3D Reconstruction Pipeline** – SLAM3R + MASt3R + SpatialLM for indoor scene understanding  
-- **Object Detection Systems** – YOLOv11 training, optimization and deployment  
-- **Scientific Computing** – splines, least squares, numerical solvers, geodesics  
-- **AI Assistants** – FastAPI + LLMs for smart tourism systems  
-
 ### 📚 Currently Learning
 - **Advanced Computer Vision** – geometric deep learning, NeRFs  
 - **LLM Multimodal Integration** – vision–language models for 3D spaces  
 - **Cloud & MLOps** – AWS, GCP, CI/CD, model deployment pipelines  
 - **Differential Geometry** – curvature, forms, geodesics applied to 3D processing  
 
-### 🎯 2025 Goals
-- 🚀 Build full indoor-scene 3D reconstruction system  
-- 🌾 Publish AgroScan dataset + benchmark  
-- 🧪 Optimize YOLOv11 pipeline for real-time applications  
-- 🎓 Complete Capstone with high–impact results  
 
 ---
 
