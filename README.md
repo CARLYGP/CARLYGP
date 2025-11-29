@@ -5,24 +5,27 @@
   <!-- Animated Typing -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=800&lines=CAD+and+Design+Expert;AI+and+Bioengineering+Researcher;Automation+and+Control+Systems+Expert;IoT+Solutions+Architect;RL+for+Control+Systems" alt="Typing SVG" />
 
-  <!-- Modern Social Links with Hover Effects -->
-  <p>
-    <a href="mailto:samsanchezcar@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-    </a>
-    <a href="https://linkedin.com/in/samuel-sanchez-cardenas">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://samsanchezcar.github.io">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-    <a href="https://github.com/samsanchezcar">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://instagram.com/ssz_2206">
-      <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-  </p>
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-andr%C3%A9s-galan-p%C3%A9rez-37116b387/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" 
+         alt="LinkedIn" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+
+  <a href="https://wa.me/573163881131" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" 
+         alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=s.cagp77@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" 
+         alt="Gmail" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+</p>
+
+
   
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=samsanchezcar&style=flat-square&color=0ea5e9" alt="Profile Views" />
