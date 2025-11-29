@@ -155,18 +155,20 @@ My work focuses on developing intelligent systems that combine machine learning,
 ---
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CARLYGP&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="CARLYGP's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=CARLYGP&theme=dracula&hide_border=true&cache_seconds=86400" alt="CARLYGP's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CARLYGP&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Carlos Galán 's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=CARLYGP&theme=dracula&radius=10" alt="CARLYGP's Activity Graph" />
-</p>
+<br/>
 
+  <h2 align="center"> Github Statistics 📈 </h2>
+  
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
+    </a>
+</div
+
+<br/>
 
 
 </td>
