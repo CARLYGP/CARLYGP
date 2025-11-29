@@ -154,25 +154,21 @@ My work focuses on developing intelligent systems that combine machine learning,
 
 ---
 
-<br/>
-
 <h2 align="center"> Github Statistics 📈 </h2>
 
 <div align="center">
 
   <!-- GitHub Stats -->
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=CARLYGP&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_seconds=60"
+       src="https://github-readme-stats.vercel.app/api?username=CARLYGP&show_icons=true&theme=react&rank_icon=github&cache_seconds=3600"
   />
 
   <!-- Top Languages -->
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CARLYGP&layout=compact&theme=react&cache_seconds=60"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CARLYGP&layout=compact&theme=react&cache_seconds=3600"
   />
 
 </div>
-
-<br/>
 
 
 
