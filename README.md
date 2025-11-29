@@ -37,55 +37,45 @@
 
 ### 👨‍🎓 Perfil Profesional
 
-Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación**, apasionado por la **Inteligencia Artificial**, la **Visión por Computador**, la **Reconstrucción 3D** y la **Computación Científica**.  
+Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** de la universidad del Rosario, apasionado por la **Inteligencia Artificial**, la **Visión por Computador**, la **Reconstrucción 3D** y la **Computación Científica**.  
 Me especializo en construir soluciones técnicas que combinan modelos de Machine Learning, procesamiento geométrico, optimización numérica y análisis avanzado de datos.
 
 ### 🎯 Áreas de Especialización
 
-- **📸 Computer Vision & 3D**: SLAM3R, MASt3R, COLMAP, nubes de puntos, alineación PCA, Manhattan Frames  
-- **🧠 Machine Learning & Deep Learning**: YOLOv11, Transfer Learning, clasificación, detección, clustering  
-- **📊 Data Science y Estadística**: R, Python, análisis multivariado, ACP, K-means, econometría  
-- **🧮 Computación Científica**: MATLAB, métodos numéricos, interpolación, splines cúbicos, mínimos cuadrados  
+- **🧠 Machine Learning & Deep Learning**: Clasificación, Clustering, neuronal networks, Transfer Learning
+- **📊 Data Science y Estadística**: R, Python, análisis multivariado, ACP, K-means, regresión. 
+- **🧮 Computación Científica**: MATLAB, métodos numéricos, interpolación, splines cúbicos, mínimos cuadrados
 - **⚙️ Ingeniería de Software y Automatización**: APIs, FastAPI, pipelines, dashboards interactivos  
-- **🤖 Aplicaciones de IA**: sistemas de recomendación, asistentes inteligentes, RL básico  
+- **🤖 Aplicaciones de IA**: sistemas de recomendación, agentes inteligentes, RL básico  
 
-### 🏢 Experiencia en Proyectos y Laboratorios
-
-#### 🏠 **Reconstrucción 3D y SLAM**
-- Desarrollo de un sistema completo para reconstruir espacios interiores en 3D a partir de video  
-- Procesamiento de nubes de puntos: escalado, alineación, detección de paredes y objetos  
-- Integración de **SpatialLM** para reconocimiento estructural
-
-#### 🌱 **AgroScan** – Detección de enfermedades en cultivos (YOLOv11)
-- Entrenamiento y despliegue de modelos YOLO para enfermedades en tomate, papa y maíz  
-- UI en Streamlit/Gradio, visualización avanzada y explicación de resultados
-
-#### 👥 **Crowd Detection**
-- Sistema de conteo de personas y heatmaps para cámaras de seguridad  
-- Modelos YOLOv11m/l y postprocesamiento visual
-
-#### 🎒 **Asistente Turístico Inteligente**
-- Asistente tipo "Layla" para Bogotá con rutas, mapas, Overpass API y FastAPI  
-- Integración de LLMs para recomendaciones personalizadas
-
-#### 🌿 **Investigación Ambiental y Social**
-- Proyecto sobre compostaje, huertas urbanas y educación ambiental en Bogotá  
-- Encuestas, análisis estadístico, informes y visualización
 
 ### 🚀 Proyectos Destacados
 
-- **🧱 SLAM3R Pipeline**: alineación, escalado y procesamiento total de nubes 3D  
-- **📦 Object Detection Toolkit**: scripts para entrenar, evaluar y desplegar YOLOv11  
-- **📊 IMDEC**: Indicador multidimensional económico-social con R  
-- **🧪 MATLAB Scientific Computing Suite**: interpolación, splines, mínimos cuadrados, geodesias  
-- **🔢 Differential Geometry Tools**: visualización y cálculo de geodésicas, curvatura, formas fundamentales
+#### 🏠 **Reconstrucción y detección 3D**
+- Desarrollo de un sistema completo para reconstruir espacios interiores en 3D a partir de video  
+- Procesamiento de nubes de puntos: escalado, alineación, detección de paredes y objetos  
+
+#### 👥 **Crowd Detection**
+- Sistema de conteo de personas y heatmaps para cámaras de seguridad  
+- Modelos YOLOv11s/m y postprocesamiento visual
+  
+
+#### 🎒 **Asistente Turístico Inteligente**
+- Asistente de actividades turisticas para Bogotá con rutas, mapas, Overpass API y FastAPI  
+- Integración de LLMs para recomendaciones personalizadas usando un enfoque moderno (RAG)
+
+#### 🌿 **Investigación Ambiental y Social**
+- **AgroScan** – Detección de enfermedades en cultivos (YOLOv12)
+- Clasificación de residuos en basuras de reciclaje
+- UI en Streamlit/Gradio, visualización avanzada.
+
 
 ### 🎓 Formación Académica
 
-- **Matemáticas Aplicadas y Ciencias de la Computación**  
-- Enfoque en IA, visión por computador, métodos numéricos y estadística  
-- Experiencia con Python, R, MATLAB, LaTeX y herramientas de cómputo científico  
-- Participación en proyectos interdisciplinarios de ingeniería, agricultura, turismo y energía
+- **Matemáticas Aplicadas y Ciencias de la Computación**
+- Universidad del Rosario
+- Enfoque en IA, visión por computador, Agentes, ML/DL , PLN.
+- Experiencia con Python, R, MATLAB, LaTeX, SQL y herramientas de cómputo científico.
 
 </details>
 
@@ -95,55 +85,42 @@ Me especializo en construir soluciones técnicas que combinan modelos de Machine
 
 ### 👨‍🎓 Professional Profile
 
-I am an **Applied Mathematics and Computer Science** student passionate about **Artificial Intelligence**, **Computer Vision**, **3D Reconstruction**, and **Scientific Computing**.  
-My work focuses on developing intelligent systems that combine machine learning, geometric processing, numerical methods, and advanced data analysis.
+I am an **Applied Mathematics and Computer Science** student at Universidad del Rosario, passionate about **Artificial Intelligence**, **Computer Vision**, **3D Reconstruction**, and **Scientific Computing**.  
+I specialize in building technical solutions that combine Machine Learning models, geometric processing, numerical optimization, and advanced data analysis.
 
 ### 🎯 Areas of Specialization
 
-- **📸 Computer Vision & 3D**: SLAM3R, MASt3R, COLMAP, point clouds, PCA alignment, Manhattan frames  
-- **🧠 Machine Learning & Deep Learning**: YOLOv11, transfer learning, classification, detection, clustering  
-- **📊 Data Science & Statistics**: R, Python, multivariate analysis, PCA, K-means, econometrics  
+- **🧠 Machine Learning & Deep Learning**: Classification, clustering, neural networks, transfer learning  
+- **📊 Data Science & Statistics**: R, Python, multivariate analysis, PCA, K-means, regression  
 - **🧮 Scientific Computing**: MATLAB, numerical methods, interpolation, cubic splines, least squares  
-- **⚙️ Software & Automation**: APIs, FastAPI, pipelines, dashboards, data engineering basics  
-- **🤖 Applied AI**: recommendation systems, intelligent assistants, basic reinforcement learning  
-
-### 🏢 Project and Research Experience
-
-#### 🏠 **3D Reconstruction & SLAM**
-- Full pipeline for reconstructing indoor spaces from video  
-- Point cloud processing: scaling, alignment, floor/wall extraction, object recognition  
-- Integration with **SpatialLM** for semantic understanding of 3D environments
-
-#### 🌱 **AgroScan** – Crop Disease Detection (YOLOv11)
-- Training and deployment of YOLO models for tomato, potato, and maize disease detection  
-- Streamlit/Gradio UI, interpretability tools, and real-time visualization
-
-#### 👥 **Crowd Detection System**
-- Person counting + heatmaps for security cameras  
-- YOLOv11m/l models with custom post-processing and heatmap generation
-
-#### 🗺️ **AI Tourist Assistant**
-- Layla-like Bogotá guide using Overpass API, FastAPI, maps, and LLM-based reasoning  
-- Personalized path planning and recommendation logic
-
-#### 🌿 **Environmental Research**
-- Study on composting, urban agriculture, and sustainable practices among university students  
-- Survey design, statistical analysis, and academic reporting
+- **⚙️ Software Engineering & Automation**: APIs, FastAPI, pipelines, interactive dashboards  
+- **🤖 AI Applications**: recommendation systems, intelligent agents, basic RL  
 
 ### 🚀 Featured Projects
 
-- **🧱 SLAM3R Pipeline**: Scaling, PCA alignment, wall segmentation, and full 3D preprocessing  
-- **📦 Object Detection Toolkit**: End-to-end YOLOv11 training and inference scripts  
-- **📊 IMDEC Index**: Multidimensional economic–social index built in R  
-- **🧪 MATLAB Numerical Suite**: splines, interpolation, least squares, differential geometry  
-- **🌐 Geometry Tools**: geodesics, curvature computation, and visualization scripts
+#### 🏠 **3D Reconstruction & Detection**
+- Full system for indoor 3D reconstruction from video  
+- Point cloud processing: scaling, alignment, wall detection, and object identification  
+
+#### 👥 **Crowd Detection**
+- Person counting and heatmap generation for security cameras  
+- YOLOv11s/m models and advanced post-processing  
+
+#### 🎒 **Intelligent Tourist Assistant**
+- Activity planning assistant for Bogotá with routes, maps, Overpass API, and FastAPI  
+- LLM-based personalized recommendations using a modern RAG approach  
+
+#### 🌿 **Environmental & Social Research**
+- **AgroScan** – Crop disease detection (YOLOv12)  
+- Waste classification for recycling systems  
+- Streamlit/Gradio UI with advanced visualization  
 
 ### 🎓 Academic Background
 
 - **Applied Mathematics and Computer Science**  
-- Focus areas: AI, computer vision, numerical analysis, scientific programming, statistics  
-- Experience with Python, R, MATLAB, and LaTeX  
-- Participation in interdisciplinary engineering, environmental, and energy-related projects
+- Universidad del Rosario  
+- Focus on AI, computer vision, intelligent agents, ML/DL, and NLP  
+- Experience with Python, R, MATLAB, LaTeX, SQL, and scientific computing tools
 
 
 </details>
@@ -181,7 +158,7 @@ My work focuses on developing intelligent systems that combine machine learning,
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,r,ts&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab&perline=6" />
 </p>
 
 ### AI & Machine Learning
@@ -229,7 +206,7 @@ My work focuses on developing intelligent systems that combine machine learning,
 
   <img src="https://img.shields.io/badge/👥_Verytel-Crowd_Detection_System-F59E0B?style=for-the-badge&labelColor=1a1b27" />
 
-  <img src="https://img.shields.io/badge/🗺️_Tourism_AI-Layla--like_Assistant-8B5CF6?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🗺️_Tourism_AI-Assistant-8B5CF6?style=for-the-badge&labelColor=1a1b27" />
   
 </div>
 
