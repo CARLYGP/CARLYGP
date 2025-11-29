@@ -92,6 +92,7 @@ Me especializo en construir soluciones técnicas que combinan modelos de Machine
 
 </details>
 
+<details>
 <summary><bᴇɴ English</b></summary>
 
 ### 👨‍🎓 Professional Profile
