@@ -19,11 +19,12 @@
          alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/>
   </a>
 
-  <a href="mailto:s.cagp77@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=s.cagp77@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" 
          alt="Gmail" width="40" height="40" style="margin: 0 8px;"/>
   </a>
 </p>
+
 
 ## 📌 About Me
 - 💡 Passionate about the ethical and innovative application of data analytics and artificial intelligence to solve real world problems and create a positive impact on society. I am characterized by my perseverance, curiosity, commitment to continuous learning, and willingness to take on new challenges.
