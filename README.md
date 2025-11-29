@@ -13,7 +13,7 @@
 
 
 ## 🧠 My Focus Areas
-- Python,
+- Python
 - SQL
 - Machine Learning
 - Deep Learning
