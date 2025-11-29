@@ -154,24 +154,20 @@ My work focuses on developing intelligent systems that combine machine learning,
 
 ---
 
-## 📊 GitHub Analytics Dashboard
 
-<div align="center">
-  
-  <!-- GitHub Stats Cards -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=samsanchezcar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=8B5CF6" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsanchezcar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=C9D1D9" height="165" />
-  </div>
-  
-  <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samsanchezcar&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=0EA5E9&fire=F59E0B&currStreakLabel=C9D1D9" width="75%" />
-  
-  <!-- Trophy Cabinet -->
-  <img src="https://github-profile-trophy.vercel.app/?username=samsanchezcar&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" width="95%" />
-  
-  
-</div>
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CARLYGP&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="CARLYGP's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=CARLYGP&theme=dracula&hide_border=true&cache_seconds=86400" alt="CARLYGP's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CARLYGP&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Carlos Galán 's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=CARLYGP&theme=dracula&radius=10" alt="CARLYGP's Activity Graph" />
+</p>
+
+
 
 </td>
 
