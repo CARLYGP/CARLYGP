@@ -177,7 +177,6 @@ My work focuses on developing intelligent systems that combine machine learning,
 
 
 </td>
-
 <!-- Right Column -->
 <td width="35%" valign="top">
 
@@ -185,32 +184,37 @@ My work focuses on developing intelligent systems that combine machine learning,
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,julia&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,r,julia,ts&perline=6" />
 </p>
 
-### Web Technologies
+### AI & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4" />
+</p>
+
+### Web & API Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,html,css,js&perline=6" />
 </p>
 
 ### Development Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,latex&perline=5" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,latex,anaconda&perline=6" />
 </p>
 
-### Engineering Software
+### 3D / Graphics / Engineering Software
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=autocad,blender,ps,ai,figma&perline=5" />
+  <img src="https://skillicons.dev/icons?i=blender,unity,ps,ai&perline=4" />
 </p>
 
 ### Specialized Platforms
 <div align="center">
-  <img src="https://img.shields.io/badge/ANSYS-FFB71B?style=flat-square&logo=ansys&logoColor=black" width="80" />
-  <img src="https://img.shields.io/badge/Fusion360-FF6F00?style=flat-square&logo=autodesk&logoColor=white" width="80" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" width="80" />
-  <img src="https://img.shields.io/badge/FPGA-2C2255?style=flat-square&logo=xilinx&logoColor=white" width="80" />
-  <img src="https://img.shields.io/badge/PLC-007ACC?style=flat-square&logo=siemens&logoColor=white" width="80" />
-  <img src="https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white" width="80" />
+  <img src="https://img.shields.io/badge/YOLOv11-FFDD00?style=flat-square&logo=yolo&logoColor=black" width="90" />
+  <img src="https://img.shields.io/badge/SLAM3R-0EA5E9?style=flat-square&logo=opencv&logoColor=white" width="90" />
+  <img src="https://img.shields.io/badge/MASt3R-9333EA?style=flat-square&logo=pytorch&logoColor=white" width="90" />
+  <img src="https://img.shields.io/badge/COLMAP-2563EB?style=flat-square&logo=blender&logoColor=white" width="90" />
+  <img src="https://img.shields.io/badge/SpatialLM-22c55e?style=flat-square&logo=python&logoColor=white" width="90" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" width="90" />
 </div>
 
 ---
@@ -220,15 +224,15 @@ My work focuses on developing intelligent systems that combine machine learning,
 <div align="center">
   
   <!-- Achievement Cards -->
-  <img src="https://img.shields.io/badge/📚_GPA_4.6/5.0-Academic_Excellence-gold?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/📚_Academic_Projects-3D_Reconstruction_&_AI-gold?style=for-the-badge&labelColor=1a1b27" />
   
-  <img src="https://img.shields.io/badge/🧑‍🏫_Teaching_Assistant-Finance_2025-0EA5E9?style=for-the-badge&labelColor=1a1b27" />
-  
-  <img src="https://img.shields.io/badge/🔬_Researcher-Kyma_Lab-8B5CF6?style=for-the-badge&labelColor=1a1b27" />
-  
-  <img src="https://img.shields.io/badge/🦾_Coordinator-Protos_UNAL-F59E0B?style=for-the-badge&labelColor=1a1b27" />
-  
-  <img src="https://img.shields.io/badge/🎓_Expected_Graduation-July_2026-10B981?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🤖_Computer_Vision-Object_Detection_(YOLOv11)-0EA5E9?style=for-the-badge&labelColor=1a1b27" />
+
+  <img src="https://img.shields.io/badge/🌱_AgroScan-Crop_Disease_AI-10B981?style=for-the-badge&labelColor=1a1b27" />
+
+  <img src="https://img.shields.io/badge/👥_Verytel-Crowd_Detection_System-F59E0B?style=for-the-badge&labelColor=1a1b27" />
+
+  <img src="https://img.shields.io/badge/🗺️_Tourism_AI-Layla--like_Assistant-8B5CF6?style=for-the-badge&labelColor=1a1b27" />
   
 </div>
 
@@ -237,20 +241,22 @@ My work focuses on developing intelligent systems that combine machine learning,
 ## 🎯 Current Focus
 
 ### 🔬 Research & Development
-- **Reinforcement Learning Control Systems** - Developing RL-based controllers for industrial plant optimization at Kyma Lab
-- **Prosthetic Sensing Technology** - Designing and calibrating FSR sensor arrays for residual limb analysis with Protos UNAL
+- **3D Reconstruction Pipeline** – SLAM3R + MASt3R + SpatialLM for indoor scene understanding  
+- **Object Detection Systems** – YOLOv11 training, optimization and deployment  
+- **Scientific Computing** – splines, least squares, numerical solvers, geodesics  
+- **AI Assistants** – FastAPI + LLMs for smart tourism systems  
 
 ### 📚 Currently Learning
-- **Advanced Control Theory** - Nonlinear systems, optimal control, and robust control techniques
-- **Cloud Architecture** - AWS, Google Cloud Platform, and infrastructure as code
-- **ROS2** - Robot Operating System for autonomous systems development
-- **RL** - RLlib and Gymnasium
+- **Advanced Computer Vision** – geometric deep learning, NeRFs  
+- **LLM Multimodal Integration** – vision–language models for 3D spaces  
+- **Cloud & MLOps** – AWS, GCP, CI/CD, model deployment pipelines  
+- **Differential Geometry** – curvature, forms, geodesics applied to 3D processing  
 
 ### 🎯 2025 Goals
-- ✅ Complete Turing Project deployment and validation
-- 📝 Publish research paper on FSR sensor arrays for prosthetics
-- 🚀 Contribute to 5+ open source robotics and IoT projects
-- 🎓 Maintain 4.6+ GPA through graduation
+- 🚀 Build full indoor-scene 3D reconstruction system  
+- 🌾 Publish AgroScan dataset + benchmark  
+- 🧪 Optimize YOLOv11 pipeline for real-time applications  
+- 🎓 Complete Capstone with high–impact results  
 
 ---
 
@@ -260,45 +266,20 @@ My work focuses on developing intelligent systems that combine machine learning,
 
 | 🎷 Hobbies | 🌍 Languages | 💻 OS |
 |:---:|:---:|:---:|
-| Alto Sax (Jazz) | ES (Native) | Windows|
-| Mountain Hiking | EN (C1) | Linux Mint|
-| 3D Printing | DE (B1) | Android|
-| Coffee Brewing |  | |
+| 3D Printing | ES (Native) | Linux Mint |
+| Saxophone (Jazz) | EN (C1) | Windows |
+| Hiking | DE (A2) | Android |
+| Coffee Brewing |  |  |
 
 </div>
 
 ---
 
-## 📫 Connect With Me
-
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samsanchezcar@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-sanchez-cardenas)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://samsanchezcar.github.io)
-  
-  <br/>
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samsanchezcar)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ssz_2206)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/samuel_sanchez)
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
 
 <!-- Modern Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,11&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together&descSize=16&descAlignY=88&animation=fadeIn" width="100%" />
   
-  ### 💡 *"Innovation is born from the passion to learn and the desire to improve the world, one project at a time."*
-  
-  <img src="https://img.shields.io/badge/Made_with_❤️_by-Samuel_David-0EA5E9?style=for-the-badge&labelColor=1a1b27" />
-  
-  <sub>⭐ Don't forget to star some repos if you find them interesting! • 🔔 Follow @samsanchezcar for updates</sub>
+
 </div>
 
