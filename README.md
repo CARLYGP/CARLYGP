@@ -160,19 +160,20 @@ My work focuses on developing intelligent systems that combine machine learning,
 
 <div align="center">
 
-  <!-- Main GitHub Stats -->
-  <img height="180" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CARLYGP&show_icons=true&theme=react&count_private=true&include_all_commits=true" 
+  <!-- GitHub Stats -->
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=CARLYGP&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_seconds=60"
   />
 
   <!-- Top Languages -->
   <img height="180"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CARLYGP&layout=compact&theme=react&hide=css" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CARLYGP&layout=compact&theme=react&cache_seconds=60"
   />
 
 </div>
 
 <br/>
+
 
 
 
