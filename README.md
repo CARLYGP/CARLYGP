@@ -276,10 +276,6 @@ My work focuses on developing intelligent systems that combine machine learning,
 ---
 
 
-<!-- Modern Animated Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,11&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together&descSize=16&descAlignY=88&animation=fadeIn" width="100%" />
-  
 
 </div>
 
