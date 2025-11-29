@@ -7,15 +7,13 @@
 </p>
 
 ## 📌 About Me
-- 💡 Passionate about the ethical and innovative application of data analytics and artificial intelligence to solve real-world problems and create a positive impact on society. I am characterized by my perseverance, curiosity, commitment to continuous learning, and willingness to take on new challenges.
+- 💡 Passionate about the ethical and innovative application of data analytics and artificial intelligence to solve real world problems and create a positive impact on society. I am characterized by my perseverance, curiosity, commitment to continuous learning, and willingness to take on new challenges.
 - 🎯 Currently seeking an internship that allows me to apply my knowledge, strengthen both technical and soft skills, and contribute to the development of high-value projects in data science, AI, and technology.
-- 📚 Future professional with experience in Python, SQL, Machine Learning, Deep Learning, statistical data analysis, and data visualization. I complement my technical background with critical thinking, problem-solving, adaptability, and teamwork skills.
-- 📈 Areas of interest: Machine Learning, Computer Vision, Natural Language Processing, Statistical Data Analysis, Deep Learning, Technological Innovation, and Business Intelligence.
 - 🗣️ Languages: English & Spanish
 
 
 ## 🧠 My Focus Areas
-- AI/ML
+-  Python, SQL, Machine Learning, Deep Learning, statistical data analysis, and data visualization. I complement my technical background with critical thinking, problem-solving, adaptability, and teamwork skills.
 
 
 ## 📊 GitHub Stats & Trophies
