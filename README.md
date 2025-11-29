@@ -37,8 +37,8 @@
 
 ### 👨‍🎓 Perfil Profesional
 
-Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** de la universidad del Rosario, apasionado por la **Inteligencia Artificial**, la **Visión por Computador**, la **Reconstrucción 3D** y la **Computación Científica**.  
-Me especializo en construir soluciones técnicas que combinan modelos de Machine Learning, procesamiento geométrico, optimización numérica y análisis avanzado de datos.
+Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** de la universidad del Rosario, apasionado por la **Inteligencia Artificial**
+
 
 ### 🎯 Áreas de Especialización
 
