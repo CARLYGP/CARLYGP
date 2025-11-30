@@ -4,8 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=800&lines=AI+Developer;3D+Reconstruction;Computer+Vision;Machine+Learning;Scientific+Computing" alt="Typing SVG" />
 
 
-## 🔗 Connect with Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-andr%C3%A9s-galan-p%C3%A9rez-37116b387/" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" 
@@ -33,24 +31,24 @@
 <details open>
 <summary><b>🇪🇸 Español</b></summary>
 
-### 👨‍🎓 Perfil Profesional
+### 👨‍🎓 Perfil 
 
-Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** de la universidad del Rosario, apasionado por la **Inteligencia Artificial**
+Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la universidad del Rosario y aquí comparto algunos de los proyectos más relevantes en distintas áreas de interés.
 
 
 ### 🎯 Áreas de Especialización
 
-- **🧠 Machine Learning & Deep Learning**: Clasificación, Clustering, neuronal networks, Transfer Learning
-- **📊 Data Science y Estadística**: R, Python, análisis multivariado, ACP, K-means, regresión. 
-- **🧮 Computación Científica**: MATLAB, métodos numéricos, interpolación, splines cúbicos, mínimos cuadrados
-- **⚙️ Ingeniería de Software y Automatización**: APIs, FastAPI, pipelines, dashboards interactivos  
-- **🤖 Aplicaciones de IA**: sistemas de recomendación, agentes inteligentes, RL básico  
+- **💻 Lenguajes de Programación: Python, R, MATLAB, C++, SQL
+- **🧠 Machine Learning & Deep Learning**: Clasificación, Clustering, redes neuronales / CNN, Aprendizaje por transferencia.
+- **📊 Estadística:Análisis exploratorio de datos (EDA), inferencia, regresión, pruebas de hipótesis, PCA, clustering.
+- **🧮 Computación Científica**: Métodos numéricos, interpolación, geometría computacional.
+- **⚙️ Ingeniería de Software y Automatización**: APIs, FastAPI, Testing.
+- **📈 Business Intelligence & Visualization**:  Plotly, Gradio, PowerBI(básico)
 
 
 ## 🚀 Proyectos Destacados
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="50%">
@@ -102,18 +100,20 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** de la
 <details>
 <summary><b>🇬🇧 English</b></summary>
 
-### 👨‍🎓 Professional Profile
+### 👨‍🎓 Overview
 
-I am a student of **Applied Mathematics and Computer Science** at the University of Rosario, passionate about **Artificial Intelligence**.
+I am a student of **Applied Mathematics and Computer Science** at the University of Rosario and here I share some of the most relevant projects in different areas of interest.
 
 ### 🎯 Areas of Specialization
 
-- **🧠 Machine Learning & Deep Learning**: Classification, clustering, neural networks, transfer learning  
-- **📊 Data Science & Statistics**: R, Python, multivariate analysis, PCA, K-means, regression  
-- **🧮 Scientific Computing**: MATLAB, numerical methods, interpolation, cubic splines, least squares  
-- **⚙️ Software Engineering & Automation**: APIs, FastAPI, pipelines, interactive dashboards  
-- **🤖 AI Applications**: recommendation systems, intelligent agents, basic RL  
+- **💻 Programming Languages: Python, R, MATLAB, C++, SQL
+- **🧠 Machine Learning & Deep Learning**: Classification, Clustering, Neural Networks/CNNs, Transfer Learning
+- **📊 Statistics: Exploratory Data Analysis (EDA), Inference, Regression, Hypothesis Testing, PCA, Clustering
+- **🧮 Scientific Computing**: Numerical Methods, Interpolation, Computational Geometry
+- **⚙️ Software Engineering & Automation**: APIs, FastAPI, Testing
+- **📈 Business Intelligence & Visualization**: Plotly, Gradio, Power BI (Basic)
 
+- 
 ## 🚀 Proyectos Destacados
 
 <div align="center">
