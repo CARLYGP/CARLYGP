@@ -220,8 +220,7 @@ I specialize in building technical solutions that combine Machine Learning model
 |:---:|:---:|:---:|
 | Table tennis | ES (Native) | Linux Mint |
 | Competitive Programming | EN (B2) | Windows |
-| Travel |  | |
-| Football  |  |  |
+
 
 </div>
 
