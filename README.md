@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=20,21,22,23&text=Carlos%20Gal%C3%A1n&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20Mathematician%20%7C%20Artificial%20Intelligence%20and%20Deep%20Learning%20%7C%20GenAI&descSize=18&descAlignY=55&textBg=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=20,21,22,23&text=Carlos%20Gal%C3%A1n&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20Mathematician%20%7C%20Artificial%20Intelligence%20and%20Deep%20Learning%20%7C%20GenAI&descSize=18&descAlignY=55&textBg=false" />
 
 
   <!-- Animated Typing -->
