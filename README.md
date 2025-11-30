@@ -188,24 +188,6 @@ I specialize in building technical solutions that combine Machine Learning model
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" width="90" />
 </div>
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-  
-  <!-- Achievement Cards -->
-  <img src="https://img.shields.io/badge/📚_Academic_Projects-3D_Reconstruction_&_AI-gold?style=for-the-badge&labelColor=1a1b27" />
-  
-  <img src="https://img.shields.io/badge/🤖_Computer_Vision-Object_Detection_(YOLOv11)-0EA5E9?style=for-the-badge&labelColor=1a1b27" />
-
-  <img src="https://img.shields.io/badge/🌱_AgroScan-Crop_Disease_AI-10B981?style=for-the-badge&labelColor=1a1b27" />
-
-  <img src="https://img.shields.io/badge/👥_Verytel-Crowd_Detection_System-F59E0B?style=for-the-badge&labelColor=1a1b27" />
-
-  <img src="https://img.shields.io/badge/🗺️_Tourism_AI-Assistant-8B5CF6?style=for-the-badge&labelColor=1a1b27" />
-  
-</div>
 
 ---
 
