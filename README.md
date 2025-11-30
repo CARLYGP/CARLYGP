@@ -96,51 +96,47 @@ I specialize in building technical solutions that combine Machine Learning model
 
 ## 🚀 Proyectos Destacados
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h5>Reconstrucción 3D</h5>
+      <img src="https://i.imgur.com/hgmJRCy.jpeg" width="110">
+      <br>
+      <a href="https://github.com/CARLYGP">
+        <img src="https://img.shields.io/badge/CÓDIGO-9333EA?style=flat-square&logo=github&logoColor=white">
+      </a>
+    </td>
 
-  <!-- Reconstrucción 3D -->
-  <div style="width: 200px; text-align: center;">
-    <h5>Reconstrucción 3D</h5>
-    <img src="https://i.imgur.com/hgmJRCy.jpeg" width="120">
-    <br>
-    <a href="https://github.com/CARLYGP">
-      <img src="https://img.shields.io/badge/CÓDIGO-9333EA?style=flat-square&logo=github&logoColor=white">
-    </a>
-  </div>
+    <td align="center" width="50%">
+      <h5>Crowd Detection</h5>
+      <img src="https://i.imgur.com/lpHO7Kp.jpeg" width="110">
+      <br>
+      <a href="https://github.com/CARLYGP">
+        <img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat-square&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
 
-  <!-- Crowd Detection -->
-  <div style="width: 200px; text-align: center;">
-    <h5>Crowd Detection</h5>
-    <img src="https://i.imgur.com/lpHO7Kp.jpeg" width="120">
-    <br>
-    <a href="https://github.com/CARLYGP">
-      <img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat-square&logo=github&logoColor=white">
-    </a>
-  </div>
+  <tr>
+    <td align="center" width="50%">
+      <h5>Asistente Turístico IA</h5>
+      <img src="https://i.imgur.com/85eB1oQ.jpeg" width="110">
+      <br>
+      <a href="https://github.com/CARLYGP">
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-0EA5E9?style=flat-square&logo=github&logoColor=white">
+      </a>
+    </td>
 
-  <!-- Asistente Turístico -->
-  <div style="width: 200px; text-align: center;">
-    <h5>Asistente Turístico IA</h5>
-    <img src="https://i.imgur.com/85eB1oQ.jpeg" width="120">
-    <br>
-    <a href="https://github.com/CARLYGP">
-      <img src="https://img.shields.io/badge/C%C3%93DIGO-0EA5E9?style=flat-square&logo=github&logoColor=white">
-    </a>
-  </div>
-
-  <!-- AgroScan -->
-  <div style="width: 200px; text-align: center;">
-    <h5>AgroScan</h5>
-    <img src="https://i.imgur.com/smL4mGu.jpeg" width="120">
-    <br>
-    <a href="https://github.com/CARLYGP">
-      <img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white">
-    </a>
-  </div>
-
-</div>
-
-
+    <td align="center" width="50%">
+      <h5>AgroScan</h5>
+      <img src="https://i.imgur.com/smL4mGu.jpeg" width="110">
+      <br>
+      <a href="https://github.com/CARLYGP">
+        <img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
