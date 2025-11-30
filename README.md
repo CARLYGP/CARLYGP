@@ -167,7 +167,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 <!-- Right Column -->
 <td width="35%" valign="top">
 
-## 🛠️ Technical Arsenal
+## 🧰 Developer Toolbox
 
 ### Programming Languages
 <p align="center">
