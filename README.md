@@ -179,25 +179,6 @@ I specialize in building technical solutions that combine Machine Learning model
   <img src="https://skillicons.dev/icons?i=blender,unity,ps,ai&perline=4" />
 </p>
 
-### Specialized Platforms
-<div align="center">
-  <img src="https://img.shields.io/badge/YOLOv11-FFDD00?style=flat-square&logo=yolo&logoColor=black" width="90" />
-  <img src="https://img.shields.io/badge/SLAM3R-0EA5E9?style=flat-square&logo=opencv&logoColor=white" width="90" />
-  <img src="https://img.shields.io/badge/MASt3R-9333EA?style=flat-square&logo=pytorch&logoColor=white" width="90" />
-  <img src="https://img.shields.io/badge/COLMAP-2563EB?style=flat-square&logo=blender&logoColor=white" width="90" />
-  <img src="https://img.shields.io/badge/SpatialLM-22c55e?style=flat-square&logo=python&logoColor=white" width="90" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" width="90" />
-</div>
-
-
----
-
-### 📚 Currently Learning
-- **Advanced Computer Vision** – geometric deep learning, NeRFs  
-- **LLM Multimodal Integration** – vision–language models for 3D spaces  
-- **Cloud & MLOps** – AWS, GCP, CI/CD, model deployment pipelines  
-- **Differential Geometry** – curvature, forms, geodesics applied to 3D processing  
-
 
 ---
 
