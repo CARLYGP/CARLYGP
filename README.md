@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=20,21,22,23&text=Carlos%20Gal%C3%A1n&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20Mathematician%20%7C%20Artificial%20Intelligence%20and%20Deep%20Learning%20%7C%20GenAI&descSize=18&descAlignY=55&textBg=false" />
 
 
-  <!-- Animated Typing -->
+<!-- Animated Typing -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=1200&lines=A+computer+would+be+called+intelligent+if+it+could+deceive+a+human.+—+Alan+Turing;The+brain+is+a+big+neural+network.+—+Geoffrey+Hinton;Intelligence+emerges+from+learning.+—+Yann+LeCun;Knowledge+is+understanding+cause+and+effect.+—+Judea+Pearl" />
 
 
@@ -40,10 +40,10 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 ### 🎯 Áreas de Especialización
 
 - **🧠 Machine Learning & Deep Learning**: aprendizaje supervisado/no-supervisado, redes neuronales.
-- **📊 Estadística**:Análisis exploratorio de datos (EDA), inferencia, regresión, pruebas de hipótesis, PCA.
+- **📊 Estadística**: Análisis exploratorio de datos (EDA), inferencia, regresión, pruebas de hipótesis, PCA.
 - **🧮 Computación Científica**: Métodos numéricos, interpolación, geometría computacional.
 - **⚙️ Ingeniería de Software y Automatización**: APIs, FastAPI, Testing.
-- **📈 Business Intelligence & Visualization**:  Plotly, Gradio, PowerBI(básico)
+- **📈 Business Intelligence & Visualization**: Plotly, Gradio, PowerBI(básico)
 
 
 ## 🚀 Proyectos Destacados
@@ -52,10 +52,10 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 <table>
 <tr>
 <td align="center" width="50%">
-<h5>Reconstrucción 3D y Detección de Objetos en Interiores  </h5>
+<h5>Reconstrucción 3D y Detección de Objetos en Interiores</h5>
 <img src="indoor3d.png" width="350">
 <br>
-<a href="https://github.com/CARLYGP">
+<a href="https://github.com/CARLYGP/3d_Indoor_detection">
 <img src="https://img.shields.io/badge/CÓDIGO-9333EA?style=flat-square&logo=github&logoColor=white">
 </a>
 </td>
@@ -64,7 +64,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 <h5>Detección de Aglomeraciones (Yolov11)</h5>
 <img src="crowd.png" width="300">
 <br>
-<a href="[https://github.com/CARLYGP](https://github.com/CARLYGP/Crowd_Detection)">
+<a href="https://github.com/CARLYGP/Crowd_Detection">
 <img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat-square&logo=github&logoColor=white">
 </a>
 </td>
@@ -84,7 +84,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 <h5>Resolviendo sudokus mediante teoría de grafos</h5>
 <img src="grafo.png" width="300">
 <br>
-<a href="https://github.com/CARLYGP">
+<a href="https://github.com/CARLYGP/Aplicacion_teoria_de_grafos_sudokus">
 <img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white">
 </a>
 </td>
@@ -102,7 +102,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 
 ### 👨‍🎓 Overview
 
-I am a student of **Applied Mathematics and Computer Science** at the University of Rosario and here I share some of the most relevant projects in different areas of interest.
+I am a student of **Applied Mathematics and Computer Science** at the University of Rosario and here I share some of the most most relevant projects in different areas of interest.
 
 ### 🎯 Areas of Specialization
 
@@ -113,7 +113,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 - **📈 Business Intelligence & Visualization**: Plotly, Gradio, Power BI (Basic)
 
   
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 <div align="center">
 <table>
@@ -122,37 +122,37 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 <h5>3D Reconstruction and Indoor Object Detection </h5>
 <img src="indoor3d.png" width="350">
 <br>
-<a href="https://github.com/CARLYGP">
-<img src="https://img.shields.io/badge/CÓDIGO-9333EA?style=flat-square&logo=github&logoColor=white">
+<a href="https://github.com/CARLYGP/3d_Indoor_detection">
+<img src="https://img.shields.io/badge/CODE-9333EA?style=flat-square&logo=github&logoColor=white">
 </a>
 </td>
 
 <td align="center" width="50%">
-<h5>Crowd detection(Yolov11)</h5>
+<h5>Crowd Detection (Yolov11)</h5>
 <img src="crowd.png" width="300">
 <br>
-<a href="https://github.com/CARLYGP">
-<img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat-square&logo=github&logoColor=white">
+<a href="https://github.com/CARLYGP/Crowd_Detection">
+<img src="https://img.shields.io/badge/CODE-F59E0B?style=flat-square&logo=github&logoColor=white">
 </a>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="50%">
-<h5>Tourist Assistant IA</h5>
+<h5>Tourist Assistant AI</h5>
 <img src="itinerario.jpeg" width="450">
 <br>
 <a href="https://github.com/CARLYGP">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-0EA5E9?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/CODE-0EA5E9?style=flat-square&logo=github&logoColor=white">
 </a>
 </td>
 
 <td align="center" width="50%">
-<h5>Solving Sudoku puzzles using graph theory</h5>
+<h5>Solving Sudoku Puzzles Using Graph Theory</h5>
 <img src="grafo.png" width="300">
 <br>
-<a href="https://github.com/CARLYGP">
-<img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white">
+<a href="https://github.com/CARLYGP/Aplicacion_teoria_de_grafos_sudokus">
+<img src="https://img.shields.io/badge/CODE-10B981?style=flat-square&logo=github&logoColor=white">
 </a>
 </td>
 </tr>
@@ -162,6 +162,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 
 
 </td>
+
 <!-- Right Column -->
 <td width="35%" valign="top">
 
