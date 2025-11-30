@@ -64,7 +64,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 <h5>Detección de Aglomeraciones (Yolov11)</h5>
 <img src="crowd.png" width="300">
 <br>
-<a href="https://github.com/CARLYGP">
+<a href="[https://github.com/CARLYGP](https://github.com/CARLYGP/Crowd_Detection)">
 <img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat-square&logo=github&logoColor=white">
 </a>
 </td>
