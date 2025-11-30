@@ -112,7 +112,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 - **⚙️ Software Engineering & Automation**: APIs, FastAPI, Testing
 - **📈 Business Intelligence & Visualization**: Plotly, Gradio, Power BI (Basic)
 
-- 
+  
 ## 🚀 Proyectos Destacados
 
 <div align="center">
