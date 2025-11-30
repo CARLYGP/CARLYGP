@@ -94,31 +94,90 @@ I specialize in building technical solutions that combine Machine Learning model
 - **⚙️ Software Engineering & Automation**: APIs, FastAPI, pipelines, interactive dashboards  
 - **🤖 AI Applications**: recommendation systems, intelligent agents, basic RL  
 
-### 🚀 Featured Projects
+## 🚀 Proyectos Destacados
 
-#### 🏠 **3D Reconstruction & Detection**
-- Full system for indoor 3D reconstruction from video  
-- Point cloud processing: scaling, alignment, wall detection, and object identification  
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Reconstrucción 3D de Interiores</h3>
+<div align="center">
+<a href="https://github.com/CARLYGP" target="_blank">
+<img src="https://i.imgur.com/hgmJRCy.jpeg" width="400" alt="Reconstrucción 3D">
+</a>
+<p>
+<a href="https://github.com/CARLYGP" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-9333EA?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p>
+Sistema que reconstruye espacios interiores en 3D a partir de video usando 
+<strong>SLAM3R, SpatialLM, MASt3R y COLMAP</strong>.  
+Alineación, escalado, detección de paredes/objetos y procesamiento geométrico.
+</p>
+</div>
+</td>
 
-#### 👥 **Crowd Detection**
-- Person counting and heatmap generation for security cameras  
-- YOLOv11s/m models and advanced post-processing  
+<td width="50%">
+<h3 align="center">Crowd Detection</h3>
+<div align="center">
+<a href="https://github.com/CARLYGP" target="_blank">
+<img src="https://i.imgur.com/lpHO7Kp.jpeg" width="400" alt="Crowd Detection">
+</a>
+<p>
+<a href="https://github.com/CARLYGP" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p>
+Sistema de <strong>conteo de personas y mapas de calor</strong> para cámaras de seguridad.
+Modelos <strong>YOLOv11</strong>, postprocesamiento avanzado y visualización en tiempo real.
+</p>
+</div>
+</td>
+</tr>
+</table>
 
-#### 🎒 **Intelligent Tourist Assistant**
-- Activity planning assistant for Bogotá with routes, maps, Overpass API, and FastAPI  
-- LLM-based personalized recommendations using a modern RAG approach  
+<br>
 
-#### 🌿 **Environmental & Social Research**
-- **AgroScan** – Crop disease detection (YOLOv12)  
-- Waste classification for recycling systems  
-- Streamlit/Gradio UI with advanced visualization  
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Asistente Turístico Inteligente</h3>
+<div align="center">
+<a href="https://github.com/CARLYGP" target="_blank">
+<img src="https://i.imgur.com/85eB1oQ.jpeg" width="400" alt="Asistente Turístico IA">
+</a>
+<p>
+<a href="https://github.com/CARLYGP" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-0EA5E9?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p>
+Asistente para Bogotá con rutas, mapas, Overpass API, FastAPI y un sistema
+de recomendaciones basado en <strong>LLMs (RAG)</strong>.
+</p>
+</div>
+</td>
 
-### 🎓 Academic Background
-
-- **Applied Mathematics and Computer Science**  
-- Universidad del Rosario  
-- Focus on AI, computer vision, intelligent agents, ML/DL, and NLP  
-- Experience with Python, R, MATLAB, LaTeX, SQL, and scientific computing tools
+<td width="50%">
+<h3 align="center">AgroScan – Detección de Enfermedades</h3>
+<div align="center">
+<a href="https://github.com/CARLYGP" target="_blank">
+<img src="https://i.imgur.com/smL4mGu.jpeg" width="400" alt="AgroScan">
+</a>
+<p>
+<a href="https://github.com/CARLYGP" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-10B981?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p>
+Detección de enfermedades en cultivos con <strong>YOLOv12</strong>, datasets personalizados
+y UI en Streamlit/Gradio para uso por agricultores.
+</p>
+</div>
+</td>
+</tr>
+</table>
 
 
 </details>
