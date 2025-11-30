@@ -94,8 +94,54 @@ I specialize in building technical solutions that combine Machine Learning model
 - **⚙️ Software Engineering & Automation**: APIs, FastAPI, pipelines, interactive dashboards  
 - **🤖 AI Applications**: recommendation systems, intelligent agents, basic RL  
 
-<table> <tr> <td align="center" width="50%"> <h5>Reconstrucción 3D</h5> <img src="https://i.imgur.com/hgmJRCy.jpeg" width="110"> <br> <a href="https://github.com/CARLYGP"> <img src="https://img.shields.io/badge/CÓDIGO-9333EA?style=flat-square&logo=github&logoColor=white"> </a> </td> <td align="center" width="50%"> <h5>Crowd Detection</h5> <img src="https://i.imgur.com/lpHO7Kp.jpeg" width="110"> <br> <a href="https://github.com/CARLYGP"> <img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat-square&logo=github&logoColor=white"> </a> </td> </tr> <tr> <td align="center" width="50%"> <h5>Asistente Turístico IA</h5> <img src="https://i.imgur.com/85eB1oQ.jpeg" width="110"> <br> <a href="https://github.com/CARLYGP"> <img src="https://img.shields.io/badge/C%C3%93DIGO-0EA5E9?style=flat-square&logo=github&logoColor=white"> </a> </td> <td align="center" width="50%"> <h5>AgroScan</h5> <img src="https://i.imgur.com/smL4mGu.jpeg" width="110"> <br> <a href="https://github.com/CARLYGP"> <img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white"> </a> </td> </tr> </table>
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<h5>Reconstrucción 3D</h5>
+<img src="https://i.imgur.com/hgmJRCy.jpeg" width="110">
+<br>
+<a href="https://github.com/CARLYGP">
+<img src="https://img.shields.io/badge/CÓDIGO-9333EA?style=flat-square&logo=github&logoColor=white">
+</a>
+</td>
+
+<td align="center" width="50%">
+<h5>Crowd Detection</h5>
+<img src="https://i.imgur.com/lpHO7Kp.jpeg" width="110">
+<br>
+<a href="https://github.com/CARLYGP">
+<img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat-square&logo=github&logoColor=white">
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+<h5>Asistente Turístico IA</h5>
+<img src="https://i.imgur.com/85eB1oQ.jpeg" width="110">
+<br>
+<a href="https://github.com/CARLYGP">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-0EA5E9?style=flat-square&logo=github&logoColor=white">
+</a>
+</td>
+
+<td align="center" width="50%">
+<h5>AgroScan</h5>
+<img src="https://i.imgur.com/smL4mGu.jpeg" width="110">
+<br>
+<a href="https://github.com/CARLYGP">
+<img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white">
+</a>
+</td>
+</tr>
+</table>
+
 </div>
+
 
 
 
