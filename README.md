@@ -39,9 +39,8 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 
 ### 🎯 Áreas de Especialización
 
-- **💻 Lenguajes de Programación**: Python, R, MATLAB, C++, SQL
-- **🧠 Machine Learning & Deep Learning**: Clasificación, Clustering, redes neuronales / CNN, Aprendizaje por transferencia.
-- **📊 Estadística**:Análisis exploratorio de datos (EDA), inferencia, regresión, pruebas de hipótesis, PCA, clustering.
+- **🧠 Machine Learning & Deep Learning**: aprendizaje supervisado/no-supervisado, redes neuronales.
+- **📊 Estadística**:Análisis exploratorio de datos (EDA), inferencia, regresión, pruebas de hipótesis, PCA.
 - **🧮 Computación Científica**: Métodos numéricos, interpolación, geometría computacional.
 - **⚙️ Ingeniería de Software y Automatización**: APIs, FastAPI, Testing.
 - **📈 Business Intelligence & Visualization**:  Plotly, Gradio, PowerBI(básico)
@@ -107,10 +106,9 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 
 ### 🎯 Areas of Specialization
 
-- **💻 Programming Languages**: Python, R, MATLAB, C++, SQL
-- **🧠 Machine Learning & Deep Learning**: Classification, Clustering, Neural Networks/CNNs, Transfer Learning
-- **📊 Statistics**: Exploratory Data Analysis (EDA), Inference, Regression, Hypothesis Testing, PCA, Clustering
-- **🧮 Scientific Computing**: Numerical Methods, Interpolation, Computational Geometry
+- **🧠 Machine Learning & Deep Learning**: supervised/unsupervised learning, neural models.
+- **📊 Statistics**: Exploratory Data Analysis (EDA), Inference, Regression, Hypothesis Testing, PCA.
+- **🧮 Scientific Computing**: Numerical Methods, Interpolation, Computational Geometry.
 - **⚙️ Software Engineering & Automation**: APIs, FastAPI, Testing
 - **📈 Business Intelligence & Visualization**: Plotly, Gradio, Power BI (Basic)
 
@@ -165,10 +163,6 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 
 
 
-
-
-
-
 </td>
 <!-- Right Column -->
 <td width="35%" valign="top">
@@ -203,7 +197,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 
 ---
 
-## 💡 Quick Facts
+⚡ Fast Facts
 
 <div align="center">
 
