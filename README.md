@@ -96,83 +96,61 @@ I specialize in building technical solutions that combine Machine Learning model
 
 ## 🚀 Proyectos Destacados
 
-<table>
-<tr>
-<td width="40%" valign="top">
-<h5 align="center">Reconstrucción 3D</h5>
-<div align="center">
-<a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://i.imgur.com/hgmJRCy.jpeg" width="120" alt="Reconstrucción 3D">
-</a>
-<p>
-<a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-9333EA?style=flat-square&logo=github&logoColor=white">
-</a>
-</p>
-<p style="font-size: 9px; text-align:center;">
-Reconstrucción interior 3D con SLAM3R, MASt3R y SpatialLM.
-</p>
-</div>
-</td>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<td width="40%" valign="top">
-<h5 align="center">Crowd Detection</h5>
-<div align="center">
-<a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://i.imgur.com/lpHO7Kp.jpeg" width="120" alt="Crowd Detection">
-</a>
-<p>
-<a href="httpsgithub.com/CARLYGP" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat-square&logo=github&logoColor=white">
-</a>
-</p>
-<p style="font-size: 9px; text-align:center;">
-Conteo de personas y heatmaps con YOLOv11.
-</p>
-</div>
-</td>
-</tr>
-</table>
+  <!-- Reconstrucción 3D -->
+  <div style="width: 220px; text-align: center;">
+    <h5>Reconstrucción 3D</h5>
+    <img src="https://i.imgur.com/hgmJRCy.jpeg" width="120">
+    <br>
+    <a href="https://github.com/CARLYGP">
+      <img src="https://img.shields.io/badge/CÓDIGO-9333EA?style=flat-square&logo=github&logoColor=white">
+    </a>
+    <p style="font-size: 11px;">
+      Reconstrucción 3D con SLAM3R, MASt3R y SpatialLM.
+    </p>
+  </div>
 
-<br>
+  <!-- Crowd Detection -->
+  <div style="width: 220px; text-align: center;">
+    <h5>Crowd Detection</h5>
+    <img src="https://i.imgur.com/lpHO7Kp.jpeg" width="120">
+    <br>
+    <a href="https://github.com/CARLYGP">
+      <img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat-square&logo=github&logoColor=white">
+    </a>
+    <p style="font-size: 11px;">
+      Conteo de personas y heatmaps con YOLOv11.
+    </p>
+  </div>
 
-<table>
-<tr>
-<td width="40%" valign="top">
-<h5 align="center">Asistente Turístico IA</h5>
-<div align="center">
-<a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://i.imgur.com/85eB1oQ.jpeg" width="120" alt="Asistente Turístico IA">
-</a>
-<p>
-<a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-0EA5E9?style=flat-square&logo=github&logoColor=white">
-</a>
-</p>
-<p style="font-size: 9px; text-align:center;">
-Rutas, Overpass API y recomendaciones con RAG.
-</p>
-</div>
-</td>
+  <!-- Asistente Turístico -->
+  <div style="width: 220px; text-align: center;">
+    <h5>Asistente Turístico IA</h5>
+    <img src="https://i.imgur.com/85eB1oQ.jpeg" width="120">
+    <br>
+    <a href="https://github.com/CARLYGP">
+      <img src="https://img.shields.io/badge/CÓDIGO-0EA5E9?style=flat-square&logo=github&logoColor=white">
+    </a>
+    <p style="font-size: 11px;">
+      Rutas, Overpass API y recomendaciones con RAG.
+    </p>
+  </div>
 
-<td width="40%" valign="top">
-<h5 align="center">AgroScan</h5>
-<div align="center">
-<a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://i.imgur.com/smL4mGu.jpeg" width="120" alt="AgroScan">
-</a>
-<p>
-<a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white">
-</a>
-</p>
-<p style="font-size: 9px; text-align:center;">
-Detección de enfermedades en cultivos (YOLOv12).
-</p>
+  <!-- AgroScan -->
+  <div style="width: 220px; text-align: center;">
+    <h5>AgroScan</h5>
+    <img src="https://i.imgur.com/smL4mGu.jpeg" width="120">
+    <br>
+    <a href="https://github.com/CARLYGP">
+      <img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white">
+    </a>
+    <p style="font-size: 11px;">
+      Detección de enfermedades (YOLOv12).
+    </p>
+  </div>
+
 </div>
-</td>
-</tr>
-</table>
 
 
 
