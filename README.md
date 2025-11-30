@@ -81,7 +81,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 </td>
 
 <td align="center" width="50%">
-<h5>Resolviendo sudokus con téoria de grafos</h5>
+<h5>Resolviendo sudokus mediante teoría de grafos</h5>
 <img src="grafo.png" width="130">
 <br>
 <a href="https://github.com/CARLYGP">
@@ -149,7 +149,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 </td>
 
 <td align="center" width="50%">
-<h5> Resolviendo sudokus con téoria de grafos </h5>
+<h5> Solving Sudoku puzzle using graph theory</h5>
 <img src="grafo.png" width="130">
 <br>
 <a href="https://github.com/CARLYGP">
