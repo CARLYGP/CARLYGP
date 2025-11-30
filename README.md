@@ -47,33 +47,54 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** de la
 - **🤖 Aplicaciones de IA**: sistemas de recomendación, agentes inteligentes, RL básico  
 
 
-### 🚀 Proyectos Destacados
+## 🚀 Proyectos Destacados
 
-#### 🏠 **Reconstrucción y detección 3D**
-- Desarrollo de un sistema completo para reconstruir espacios interiores en 3D a partir de video  
-- Procesamiento de nubes de puntos: escalado, alineación, detección de paredes y objetos  
+<div align="center">
 
-#### 👥 **Crowd Detection**
-- Sistema de conteo de personas y heatmaps para cámaras de seguridad  
-- Modelos YOLOv11s/m y postprocesamiento visual
-  
+<table>
+<tr>
+<td align="center" width="50%">
+<h5>Reconstrucción 3D</h5>
+<img src="https://i.imgur.com/hgmJRCy.jpeg" width="130">
+<br>
+<a href="https://github.com/CARLYGP">
+<img src="https://img.shields.io/badge/CÓDIGO-9333EA?style=flat-square&logo=github&logoColor=white">
+</a>
+</td>
 
-#### 🎒 **Asistente Turístico Inteligente**
-- Asistente de actividades turisticas para Bogotá con rutas, mapas, Overpass API y FastAPI  
-- Integración de LLMs para recomendaciones personalizadas usando un enfoque moderno (RAG)
+<td align="center" width="50%">
+<h5>Crowd Detection</h5>
+<img src="https://i.imgur.com/lpHO7Kp.jpeg" width="130">
+<br>
+<a href="https://github.com/CARLYGP">
+<img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat-square&logo=github&logoColor=white">
+</a>
+</td>
+</tr>
 
-#### 🌿 **Investigación Ambiental y Social**
-- **AgroScan** – Detección de enfermedades en cultivos (YOLOv12)
-- Clasificación de residuos en basuras de reciclaje
-- UI en Streamlit/Gradio, visualización avanzada.
+<tr>
+<td align="center" width="50%">
+<h5>Asistente Turístico IA</h5>
+<img src="https://i.imgur.com/85eB1oQ.jpeg" width="130">
+<br>
+<a href="https://github.com/CARLYGP">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-0EA5E9?style=flat-square&logo=github&logoColor=white">
+</a>
+</td>
 
+<td align="center" width="50%">
+<h5>AgroScan</h5>
+<img src="https://i.imgur.com/smL4mGu.jpeg" width="130">
+<br>
+<a href="https://github.com/CARLYGP">
+<img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white">
+</a>
+</td>
+</tr>
+</table>
 
-### 🎓 Formación Académica
+</div>
 
-- **Matemáticas Aplicadas y Ciencias de la Computación**
-- Universidad del Rosario
-- Enfoque en IA, visión por computador, Agentes, ML/DL , PLN.
-- Experiencia con Python, R, MATLAB, LaTeX, SQL y herramientas de cómputo científico.
 
 </details>
 
@@ -83,8 +104,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** de la
 
 ### 👨‍🎓 Professional Profile
 
-I am an **Applied Mathematics and Computer Science** student at Universidad del Rosario, passionate about **Artificial Intelligence**, **Computer Vision**, **3D Reconstruction**, and **Scientific Computing**.  
-I specialize in building technical solutions that combine Machine Learning models, geometric processing, numerical optimization, and advanced data analysis.
+I am a student of **Applied Mathematics and Computer Science** at the University of Rosario, passionate about **Artificial Intelligence**.
 
 ### 🎯 Areas of Specialization
 
