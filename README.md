@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=20,21,22,23&text=Carlos%20Gal%C3%A1n%20&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist&descSize=18&descAlignY=55&textBg=false"/>
 
   <!-- Animated Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=800&lines=AI+Developer;3D+Reconstruction;Computer+Vision;Machine+Learning;Scientific+Computing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=A+computer+is+intelligent+if+it+can+deceive+a+human.;The+brain+is+a+big+neural+network.;Intelligence+emerges+from+learning.;Knowledge+is+understanding+cause+and+effect."/>
 
 
 <p align="center">
@@ -38,9 +38,9 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 
 ### 🎯 Áreas de Especialización
 
-- **💻 Lenguajes de Programación: Python, R, MATLAB, C++, SQL
+- **💻 Lenguajes de Programación**: Python, R, MATLAB, C++, SQL
 - **🧠 Machine Learning & Deep Learning**: Clasificación, Clustering, redes neuronales / CNN, Aprendizaje por transferencia.
-- **📊 Estadística:Análisis exploratorio de datos (EDA), inferencia, regresión, pruebas de hipótesis, PCA, clustering.
+- **📊 Estadística**:Análisis exploratorio de datos (EDA), inferencia, regresión, pruebas de hipótesis, PCA, clustering.
 - **🧮 Computación Científica**: Métodos numéricos, interpolación, geometría computacional.
 - **⚙️ Ingeniería de Software y Automatización**: APIs, FastAPI, Testing.
 - **📈 Business Intelligence & Visualization**:  Plotly, Gradio, PowerBI(básico)
@@ -106,9 +106,9 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 
 ### 🎯 Areas of Specialization
 
-- **💻 Programming Languages: Python, R, MATLAB, C++, SQL
+- **💻 Programming Languages**: Python, R, MATLAB, C++, SQL
 - **🧠 Machine Learning & Deep Learning**: Classification, Clustering, Neural Networks/CNNs, Transfer Learning
-- **📊 Statistics: Exploratory Data Analysis (EDA), Inference, Regression, Hypothesis Testing, PCA, Clustering
+- **📊 Statistics**: Exploratory Data Analysis (EDA), Inference, Regression, Hypothesis Testing, PCA, Clustering
 - **🧮 Scientific Computing**: Numerical Methods, Interpolation, Computational Geometry
 - **⚙️ Software Engineering & Automation**: APIs, FastAPI, Testing
 - **📈 Business Intelligence & Visualization**: Plotly, Gradio, Power BI (Basic)
