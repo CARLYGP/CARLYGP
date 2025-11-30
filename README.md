@@ -61,7 +61,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 </td>
 
 <td align="center" width="50%">
-<h5>Crowd Detection</h5>
+<h5>Detección de Aglomeraciones (Yolov11)</h5>
 <img src="crowd.png" width="130">
 <br>
 <a href="https://github.com/CARLYGP">
@@ -129,7 +129,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 </td>
 
 <td align="center" width="50%">
-<h5>Crowd Detection</h5>
+<h5>Crowd Detection(Yolov11)</h5>
 <img src="crowd.png" width="130">
 <br>
 <a href="https://github.com/CARLYGP">
