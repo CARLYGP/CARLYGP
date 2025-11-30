@@ -99,20 +99,18 @@ I specialize in building technical solutions that combine Machine Learning model
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Reconstrucción 3D de Interiores</h3>
+<h3 align="center">Reconstrucción 3D</h3>
 <div align="center">
 <a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://i.imgur.com/hgmJRCy.jpeg" width="400" alt="Reconstrucción 3D">
+<img src="https://i.imgur.com/hgmJRCy.jpeg" width="250" alt="Reconstrucción 3D">
 </a>
 <p>
 <a href="https://github.com/CARLYGP" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-9333EA?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>
-Sistema que reconstruye espacios interiores en 3D a partir de video usando 
-<strong>SLAM3R, SpatialLM, MASt3R y COLMAP</strong>.  
-Alineación, escalado, detección de paredes/objetos y procesamiento geométrico.
+<p style="font-size: 12px;">
+Reconstrucción interior 3D desde video (SLAM3R, MASt3R, SpatialLM, COLMAP).
 </p>
 </div>
 </td>
@@ -121,16 +119,15 @@ Alineación, escalado, detección de paredes/objetos y procesamiento geométrico
 <h3 align="center">Crowd Detection</h3>
 <div align="center">
 <a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://i.imgur.com/lpHO7Kp.jpeg" width="400" alt="Crowd Detection">
+<img src="https://i.imgur.com/lpHO7Kp.jpeg" width="250" alt="Crowd Detection">
 </a>
 <p>
 <a href="https://github.com/CARLYGP" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>
-Sistema de <strong>conteo de personas y mapas de calor</strong> para cámaras de seguridad.
-Modelos <strong>YOLOv11</strong>, postprocesamiento avanzado y visualización en tiempo real.
+<p style="font-size: 12px;">
+Conteo de personas y heatmaps con YOLOv11.
 </p>
 </div>
 </td>
@@ -142,42 +139,41 @@ Modelos <strong>YOLOv11</strong>, postprocesamiento avanzado y visualización en
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Asistente Turístico Inteligente</h3>
+<h3 align="center">Asistente Turístico IA</h3>
 <div align="center">
 <a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://i.imgur.com/85eB1oQ.jpeg" width="400" alt="Asistente Turístico IA">
+<img src="https://i.imgur.com/85eB1oQ.jpeg" width="250" alt="Asistente Turístico IA">
 </a>
 <p>
 <a href="https://github.com/CARLYGP" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-0EA5E9?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>
-Asistente para Bogotá con rutas, mapas, Overpass API, FastAPI y un sistema
-de recomendaciones basado en <strong>LLMs (RAG)</strong>.
+<p style="font-size: 12px;">
+Rutas, mapas, Overpass API y RAG para turistas en Bogotá.
 </p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">AgroScan – Detección de Enfermedades</h3>
+<h3 align="center">AgroScan</h3>
 <div align="center">
 <a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://i.imgur.com/smL4mGu.jpeg" width="400" alt="AgroScan">
+<img src="https://i.imgur.com/smL4mGu.jpeg" width="250" alt="AgroScan">
 </a>
 <p>
 <a href="https://github.com/CARLYGP" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-10B981?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>
-Detección de enfermedades en cultivos con <strong>YOLOv12</strong>, datasets personalizados
-y UI en Streamlit/Gradio para uso por agricultores.
+<p style="font-size: 12px;">
+Detección de enfermedades en cultivos con YOLOv12 y Streamlit.
 </p>
 </div>
 </td>
 </tr>
 </table>
+
 
 
 </details>
