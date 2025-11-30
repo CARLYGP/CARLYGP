@@ -126,19 +126,13 @@ I specialize in building technical solutions that combine Machine Learning model
 
 ---
 
-<br/>
 
-<h2 align="center"> Github Statistics 📈 </h2>
-
-<div align="center"> 
-    <a href="https://github.com/CARLYGP">
-        <img align="center" 
-             src="https://github-readme-stats-sigma-five.vercel.app/api?username=CARLYGP&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" 
-        />
-    </a>
-</div>
-
-<br/>
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
