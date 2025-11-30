@@ -73,7 +73,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 <tr>
 <td align="center" width="50%">
 <h5>Asistente Turístico IA</h5>
-<img src="itinerario.jpeg" width="300">
+<img src="itinerario.jpeg" width="200">
 <br>
 <a href="https://github.com/CARLYGP">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-0EA5E9?style=flat-square&logo=github&logoColor=white">
@@ -82,7 +82,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 
 <td align="center" width="50%">
 <h5>Resolviendo sudokus mediante teoría de grafos</h5>
-<img src="grafo.png" width="250">
+<img src="grafo.png" width="180">
 <br>
 <a href="https://github.com/CARLYGP">
 <img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white">
