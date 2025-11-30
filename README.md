@@ -62,7 +62,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 
 <td align="center" width="50%">
 <h5>Crowd Detection</h5>
-<img src="https://i.imgur.com/lpHO7Kp.jpeg" width="130">
+<img src="crowd.png" width="130">
 <br>
 <a href="https://github.com/CARLYGP">
 <img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat-square&logo=github&logoColor=white">
@@ -130,7 +130,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 
 <td align="center" width="50%">
 <h5>Crowd Detection</h5>
-<img src="https://i.imgur.com/lpHO7Kp.jpeg" width="130">
+<img src="crowd.png" width="130">
 <br>
 <a href="https://github.com/CARLYGP">
 <img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat-square&logo=github&logoColor=white">
