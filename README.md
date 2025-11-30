@@ -171,7 +171,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,sql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,mysql&perline=6" />
 </p>
 
 
