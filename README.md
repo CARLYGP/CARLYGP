@@ -166,17 +166,17 @@ I specialize in building technical solutions that combine Machine Learning model
 
 ### Web & API Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,html,css,js&perline=6" />
+  <img src="https://skillicons.dev/icons?i=fastapi,html,css&perline=6" />
 </p>
 
 ### Development Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,latex,anaconda&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,linux,latex,anaconda&perline=6" />
 </p>
 
 ### 3D / Graphics / Engineering Software
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,unity,ps,ai&perline=4" />
+  <img src="https://skillicons.dev/icons?i=blender,unity&perline=4" />
 </p>
 
 
