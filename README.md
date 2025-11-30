@@ -102,7 +102,7 @@ I specialize in building technical solutions that combine Machine Learning model
 <tr>
 <td align="center" width="50%">
 <h5>Reconstrucción 3D</h5>
-<img src="https://i.imgur.com/hgmJRCy.jpeg" width="110">
+<img src="https://i.imgur.com/hgmJRCy.jpeg" width="130">
 <br>
 <a href="https://github.com/CARLYGP">
 <img src="https://img.shields.io/badge/CÓDIGO-9333EA?style=flat-square&logo=github&logoColor=white">
@@ -111,7 +111,7 @@ I specialize in building technical solutions that combine Machine Learning model
 
 <td align="center" width="50%">
 <h5>Crowd Detection</h5>
-<img src="https://i.imgur.com/lpHO7Kp.jpeg" width="110">
+<img src="https://i.imgur.com/lpHO7Kp.jpeg" width="130">
 <br>
 <a href="https://github.com/CARLYGP">
 <img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat-square&logo=github&logoColor=white">
@@ -122,7 +122,7 @@ I specialize in building technical solutions that combine Machine Learning model
 <tr>
 <td align="center" width="50%">
 <h5>Asistente Turístico IA</h5>
-<img src="https://i.imgur.com/85eB1oQ.jpeg" width="110">
+<img src="https://i.imgur.com/85eB1oQ.jpeg" width="130">
 <br>
 <a href="https://github.com/CARLYGP">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-0EA5E9?style=flat-square&logo=github&logoColor=white">
@@ -131,7 +131,7 @@ I specialize in building technical solutions that combine Machine Learning model
 
 <td align="center" width="50%">
 <h5>AgroScan</h5>
-<img src="https://i.imgur.com/smL4mGu.jpeg" width="110">
+<img src="https://i.imgur.com/smL4mGu.jpeg" width="130">
 <br>
 <a href="https://github.com/CARLYGP">
 <img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white">
@@ -141,6 +141,7 @@ I specialize in building technical solutions that combine Machine Learning model
 </table>
 
 </div>
+
 
 
 
