@@ -53,7 +53,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 <tr>
 <td align="center" width="50%">
 <h5>Reconstrucción & Detección 3d en interiores  </h5>
-<img src="indoor3d" width="130">
+<img src="indoor3d.png" width="130">
 <br>
 <a href="https://github.com/CARLYGP">
 <img src="https://img.shields.io/badge/CÓDIGO-9333EA?style=flat-square&logo=github&logoColor=white">
