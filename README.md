@@ -120,7 +120,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 <table>
 <tr>
 <td align="center" width="50%">
-<h5>Reconstrucción 3D</h5>
+<h5>3D Indoor Reconstruction & Object Detection </h5>
 <img src="https://i.imgur.com/hgmJRCy.jpeg" width="130">
 <br>
 <a href="https://github.com/CARLYGP">
@@ -149,7 +149,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 </td>
 
 <td align="center" width="50%">
-<h5>AgroScan</h5>
+<h5>Food Loop</h5>
 <img src="https://i.imgur.com/smL4mGu.jpeg" width="130">
 <br>
 <a href="https://github.com/CARLYGP">
