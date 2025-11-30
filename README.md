@@ -82,7 +82,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 
 <td align="center" width="50%">
 <h5>Resolviendo sudokus con téoria de grafos</h5>
-<img src="https://i.imgur.com/smL4mGu.jpeg" width="130">
+<img src="grafo.png" width="130">
 <br>
 <a href="https://github.com/CARLYGP">
 <img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white">
@@ -150,7 +150,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 
 <td align="center" width="50%">
 <h5> Resolviendo sudokus con téoria de grafos </h5>
-<img src="https://i.imgur.com/smL4mGu.jpeg" width="130">
+<img src="grafo.png" width="130">
 <br>
 <a href="https://github.com/CARLYGP">
 <img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white">
