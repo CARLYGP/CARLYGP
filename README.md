@@ -53,7 +53,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 <tr>
 <td align="center" width="50%">
 <h5>Reconstrucción 3D y Detección de Objetos en Interiores  </h5>
-<img src="indoor3d.png" width="300">
+<img src="indoor3d.png" width="350">
 <br>
 <a href="https://github.com/CARLYGP">
 <img src="https://img.shields.io/badge/CÓDIGO-9333EA?style=flat-square&logo=github&logoColor=white">
@@ -82,7 +82,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 
 <td align="center" width="50%">
 <h5>Resolviendo sudokus mediante teoría de grafos</h5>
-<img src="grafo.png" width="200">
+<img src="grafo.png" width="300">
 <br>
 <a href="https://github.com/CARLYGP">
 <img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white">
@@ -121,7 +121,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 <tr>
 <td align="center" width="50%">
 <h5>3D Indoor Reconstruction & Object Detection </h5>
-<img src="indoor3d.png" width="300">
+<img src="indoor3d.png" width="350">
 <br>
 <a href="https://github.com/CARLYGP">
 <img src="https://img.shields.io/badge/CÓDIGO-9333EA?style=flat-square&logo=github&logoColor=white">
@@ -150,7 +150,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 
 <td align="center" width="50%">
 <h5> Solving Sudoku puzzle using graph theory</h5>
-<img src="grafo.png" width="200">
+<img src="grafo.png" width="300">
 <br>
 <a href="https://github.com/CARLYGP">
 <img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white">
