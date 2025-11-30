@@ -62,7 +62,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 
 <td align="center" width="50%">
 <h5>Detección de Aglomeraciones (Yolov11)</h5>
-<img src="crowd.png" width="200">
+<img src="crowd.png" width="300">
 <br>
 <a href="https://github.com/CARLYGP">
 <img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat-square&logo=github&logoColor=white">
@@ -82,7 +82,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 
 <td align="center" width="50%">
 <h5>Resolviendo sudokus mediante teoría de grafos</h5>
-<img src="grafo.png" width="180">
+<img src="grafo.png" width="200">
 <br>
 <a href="https://github.com/CARLYGP">
 <img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white">
