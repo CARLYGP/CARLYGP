@@ -99,34 +99,34 @@ I specialize in building technical solutions that combine Machine Learning model
 <table>
 <tr>
 <td width="50%">
-<h4 align="center">Reconstrucción 3D</h4>
+<h5 align="center">Reconstrucción 3D</h5>
 <div align="center">
 <a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://i.imgur.com/hgmJRCy.jpeg" width="180" alt="Reconstrucción 3D">
+<img src="https://i.imgur.com/hgmJRCy.jpeg" width="140" alt="Reconstrucción 3D">
 </a>
 <p>
 <a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-9333EA?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/CÓDIGO-9333EA?style=flat-square&logo=github&logoColor=white">
 </a>
 </p>
-<p style="font-size: 11px; text-align:center;">
+<p style="font-size: 9px; text-align:center;">
 Reconstrucción interior 3D con SLAM3R, MASt3R y SpatialLM.
 </p>
 </div>
 </td>
 
 <td width="50%">
-<h4 align="center">Crowd Detection</h4>
+<h5 align="center">Crowd Detection</h5>
 <div align="center">
 <a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://i.imgur.com/lpHO7Kp.jpeg" width="180" alt="Crowd Detection">
+<img src="https://i.imgur.com/lpHO7Kp.jpeg" width="140" alt="Crowd Detection">
 </a>
 <p>
 <a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat-square&logo=github&logoColor=white">
 </a>
 </p>
-<p style="font-size: 11px; text-align:center;">
+<p style="font-size: 9px; text-align:center;">
 Conteo de personas y heatmaps con YOLOv11.
 </p>
 </div>
@@ -139,41 +139,40 @@ Conteo de personas y heatmaps con YOLOv11.
 <table>
 <tr>
 <td width="50%">
-<h4 align="center">Asistente Turístico IA</h4>
+<h5 align="center">Asistente Turístico IA</h5>
 <div align="center">
 <a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://i.imgur.com/85eB1oQ.jpeg" width="180" alt="Asistente Turístico IA">
+<img src="https://i.imgur.com/85eB1oQ.jpeg" width="140" alt="Asistente Turístico IA">
 </a>
 <p>
 <a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-0EA5E9?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-0EA5E9?style=flat-square&logo=github&logoColor=white">
 </a>
 </p>
-<p style="font-size: 11px; text-align:center;">
-Rutas, mapas, Overpass API y recomendaciones RAG.
+<p style="font-size: 9px; text-align:center;">
+Rutas, Overpass API y recomendaciones con RAG.
 </p>
 </div>
 </td>
 
 <td width="50%">
-<h4 align="center">AgroScan</h4>
+<h5 align="center">AgroScan</h5>
 <div align="center">
 <a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://i.imgur.com/smL4mGu.jpeg" width="180" alt="AgroScan">
+<img src="https://i.imgur.com/smL4mGu.jpeg" width="140" alt="AgroScan">
 </a>
 <p>
 <a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white">
 </a>
 </p>
-<p style="font-size: 11px; text-align:center;">
+<p style="font-size: 9px; text-align:center;">
 Detección de enfermedades en cultivos (YOLOv12).
 </p>
 </div>
 </td>
 </tr>
 </table>
-
 
 
 
