@@ -52,7 +52,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 <table>
 <tr>
 <td align="center" width="50%">
-<h5>Reconstrucción & Detección 3d en interiores  </h5>
+<h5>Reconstrucción 3D y Detección de Objetos en Interiores  </h5>
 <img src="indoor3d.png" width="130">
 <br>
 <a href="https://github.com/CARLYGP">
