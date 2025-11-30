@@ -116,11 +116,10 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 ## 🚀 Proyectos Destacados
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="50%">
-<h5>3D Indoor Reconstruction & Object Detection </h5>
+<h5>3D Reconstruction and Indoor Object Detection </h5>
 <img src="indoor3d.png" width="350">
 <br>
 <a href="https://github.com/CARLYGP">
@@ -129,7 +128,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 </td>
 
 <td align="center" width="50%">
-<h5>Crowd Detection(Yolov11)</h5>
+<h5>Crowd detection(Yolov11)</h5>
 <img src="crowd.png" width="300">
 <br>
 <a href="https://github.com/CARLYGP">
@@ -149,8 +148,8 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 </td>
 
 <td align="center" width="50%">
-<h5> Solving Sudoku puzzle using graph theory</h5>
-<img src="grafo.png" width="250>
+<h5>Solving Sudoku puzzles using graph theory</h5>
+<img src="grafo.png" width="300">
 <br>
 <a href="https://github.com/CARLYGP">
 <img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white">
