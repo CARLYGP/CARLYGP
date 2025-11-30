@@ -98,11 +98,11 @@ I specialize in building technical solutions that combine Machine Learning model
 
 <table>
 <tr>
-<td width="50%">
+<td width="40%" valign="top">
 <h5 align="center">Reconstrucción 3D</h5>
 <div align="center">
 <a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://i.imgur.com/hgmJRCy.jpeg" width="140" alt="Reconstrucción 3D">
+<img src="https://i.imgur.com/hgmJRCy.jpeg" width="120" alt="Reconstrucción 3D">
 </a>
 <p>
 <a href="https://github.com/CARLYGP" target="_blank">
@@ -115,14 +115,14 @@ Reconstrucción interior 3D con SLAM3R, MASt3R y SpatialLM.
 </div>
 </td>
 
-<td width="50%">
+<td width="40%" valign="top">
 <h5 align="center">Crowd Detection</h5>
 <div align="center">
 <a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://i.imgur.com/lpHO7Kp.jpeg" width="140" alt="Crowd Detection">
+<img src="https://i.imgur.com/lpHO7Kp.jpeg" width="120" alt="Crowd Detection">
 </a>
 <p>
-<a href="https://github.com/CARLYGP" target="_blank">
+<a href="httpsgithub.com/CARLYGP" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat-square&logo=github&logoColor=white">
 </a>
 </p>
@@ -138,11 +138,11 @@ Conteo de personas y heatmaps con YOLOv11.
 
 <table>
 <tr>
-<td width="50%">
+<td width="40%" valign="top">
 <h5 align="center">Asistente Turístico IA</h5>
 <div align="center">
 <a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://i.imgur.com/85eB1oQ.jpeg" width="140" alt="Asistente Turístico IA">
+<img src="https://i.imgur.com/85eB1oQ.jpeg" width="120" alt="Asistente Turístico IA">
 </a>
 <p>
 <a href="https://github.com/CARLYGP" target="_blank">
@@ -155,11 +155,11 @@ Rutas, Overpass API y recomendaciones con RAG.
 </div>
 </td>
 
-<td width="50%">
+<td width="40%" valign="top">
 <h5 align="center">AgroScan</h5>
 <div align="center">
 <a href="https://github.com/CARLYGP" target="_blank">
-<img src="https://i.imgur.com/smL4mGu.jpeg" width="140" alt="AgroScan">
+<img src="https://i.imgur.com/smL4mGu.jpeg" width="120" alt="AgroScan">
 </a>
 <p>
 <a href="https://github.com/CARLYGP" target="_blank">
@@ -173,6 +173,7 @@ Detección de enfermedades en cultivos (YOLOv12).
 </td>
 </tr>
 </table>
+
 
 
 
