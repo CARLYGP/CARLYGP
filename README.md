@@ -99,58 +99,47 @@ I specialize in building technical solutions that combine Machine Learning model
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <!-- Reconstrucción 3D -->
-  <div style="width: 220px; text-align: center;">
+  <div style="width: 200px; text-align: center;">
     <h5>Reconstrucción 3D</h5>
     <img src="https://i.imgur.com/hgmJRCy.jpeg" width="120">
     <br>
     <a href="https://github.com/CARLYGP">
       <img src="https://img.shields.io/badge/CÓDIGO-9333EA?style=flat-square&logo=github&logoColor=white">
     </a>
-    <p style="font-size: 11px;">
-      Reconstrucción 3D con SLAM3R, MASt3R y SpatialLM.
-    </p>
   </div>
 
   <!-- Crowd Detection -->
-  <div style="width: 220px; text-align: center;">
+  <div style="width: 200px; text-align: center;">
     <h5>Crowd Detection</h5>
     <img src="https://i.imgur.com/lpHO7Kp.jpeg" width="120">
     <br>
     <a href="https://github.com/CARLYGP">
       <img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat-square&logo=github&logoColor=white">
     </a>
-    <p style="font-size: 11px;">
-      Conteo de personas y heatmaps con YOLOv11.
-    </p>
   </div>
 
   <!-- Asistente Turístico -->
-  <div style="width: 220px; text-align: center;">
+  <div style="width: 200px; text-align: center;">
     <h5>Asistente Turístico IA</h5>
     <img src="https://i.imgur.com/85eB1oQ.jpeg" width="120">
     <br>
     <a href="https://github.com/CARLYGP">
-      <img src="https://img.shields.io/badge/CÓDIGO-0EA5E9?style=flat-square&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/C%C3%93DIGO-0EA5E9?style=flat-square&logo=github&logoColor=white">
     </a>
-    <p style="font-size: 11px;">
-      Rutas, Overpass API y recomendaciones con RAG.
-    </p>
   </div>
 
   <!-- AgroScan -->
-  <div style="width: 220px; text-align: center;">
+  <div style="width: 200px; text-align: center;">
     <h5>AgroScan</h5>
     <img src="https://i.imgur.com/smL4mGu.jpeg" width="120">
     <br>
     <a href="https://github.com/CARLYGP">
       <img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white">
     </a>
-    <p style="font-size: 11px;">
-      Detección de enfermedades (YOLOv12).
-    </p>
   </div>
 
 </div>
+
 
 
 
