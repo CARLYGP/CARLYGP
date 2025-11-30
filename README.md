@@ -176,7 +176,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,sql&perline=6" />
 </p>
 
 ### AI & Machine Learning
