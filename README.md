@@ -43,7 +43,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 - **📊 Estadística**: Análisis exploratorio de datos (EDA), inferencia, regresión, pruebas de hipótesis, PCA.
 - **🧮 Computación Científica**: Métodos numéricos, interpolación, geometría computacional.
 - **⚙️ Ingeniería de Software y Automatización**: APIs, FastAPI, Testing.
-- **📈 Business Intelligence & Visualization**: Plotly, Gradio, PowerBI(básico)
+- **📈 Business Intelligence & Visualization**: Plotly, Gradio, PowerBI
 
 
 ## 🚀 Proyectos Destacados
