@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=20,21,22,23&text=Carlos%20Gal%C3%A1n&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20Mathematician%20%7C%20Artificial%20Intelligence%20and%20Deep%20Learning%20%7C%20GenAI&descSize=18&descAlignY=55&textBg=false" />
 
-
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=1200&lines=A+computer+would+be+called+intelligent+if+it+could+deceive+a+human.+—+Alan+Turing;The+brain+is+a+big+neural+network.+—+Geoffrey+Hinton;Intelligence+emerges+from+learning.+—+Yann+LeCun;Knowledge+is+understanding+cause+and+effect.+—+Judea+Pearl" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=1200&lines=Hola%2C+soy+Carlos+Gal%C3%A1n;Estudiante+de+Matem%C3%A1ticas+Aplicadas+y+Ciencias+de+la+Computaci%C3%B3n;Apasionado+por+la+Inteligencia+Artificial+y+el+Data+Science;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Construyendo+soluciones+con+impacto+real" />
 
 
 <p align="center">
