@@ -71,7 +71,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 
 <tr>
 <td align="center" width="50%">
-<h5>Agente Multiagente de Empleo (LangGraph)</h5>
+<h5>Sistema Multiagente de Empleo (LangGraph)</h5>
 <img src="agente_empleo.png" width="450">
 <br>
 <a href="https://github.com/CARLYGP/Agente_Empleo_LangGraph">
@@ -138,7 +138,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 
 <tr>
 <td align="center" width="50%">
-<h5>Multi-Agent Job Search Agent (LangGraph)</h5>
+<h5>Multi-Agent Job Search System (LangGraph)</h5>
 <img src="agente_empleo.png" width="450">
 <br>
 <a href="https://github.com/CARLYGP/Agente_Empleo_LangGraph">
