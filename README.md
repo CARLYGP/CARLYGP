@@ -61,7 +61,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 
 <td align="center" width="50%">
 <h5>Detección de Aglomeraciones (Yolov11)</h5>
-<img src="crowd.png" width="300">
+<a href="https://github.com/CARLYGP/Crowd_Detection"><img src="crowd.png" width="400"></a>
 <br>
 <a href="https://github.com/CARLYGP/Crowd_Detection">
 <img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat-square&logo=github&logoColor=white">
@@ -81,7 +81,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 
 <td align="center" width="50%">
 <h5>Resolviendo sudokus mediante teoría de grafos</h5>
-<img src="grafo.png" width="300">
+<a href="https://github.com/CARLYGP/Aplicacion_teoria_de_grafos_sudokus"><img src="grafo.png" width="400"></a>
 <br>
 <a href="https://github.com/CARLYGP/Aplicacion_teoria_de_grafos_sudokus">
 <img src="https://img.shields.io/badge/CÓDIGO-10B981?style=flat-square&logo=github&logoColor=white">
@@ -128,7 +128,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 
 <td align="center" width="50%">
 <h5>Crowd Detection (Yolov11)</h5>
-<img src="crowd.png" width="300">
+<a href="https://github.com/CARLYGP/Crowd_Detection"><img src="crowd.png" width="400"></a>
 <br>
 <a href="https://github.com/CARLYGP/Crowd_Detection">
 <img src="https://img.shields.io/badge/CODE-F59E0B?style=flat-square&logo=github&logoColor=white">
@@ -148,7 +148,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 
 <td align="center" width="50%">
 <h5>Solving Sudoku Puzzles Using Graph Theory</h5>
-<img src="grafo.png" width="300">
+<a href="https://github.com/CARLYGP/Aplicacion_teoria_de_grafos_sudokus"><img src="grafo.png" width="400"></a>
 <br>
 <a href="https://github.com/CARLYGP/Aplicacion_teoria_de_grafos_sudokus">
 <img src="https://img.shields.io/badge/CODE-10B981?style=flat-square&logo=github&logoColor=white">
