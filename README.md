@@ -52,7 +52,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 <tr>
 <td align="center" width="50%">
 <h5>Reconstrucción 3D y Detección de Objetos en Interiores</h5>
-<img src="indoor3d.png" width="350">
+<a href="https://github.com/CARLYGP/3d_Indoor_detection"><img src="indoor3d.gif" width="400"></a>
 <br>
 <a href="https://github.com/CARLYGP/3d_Indoor_detection">
 <img src="https://img.shields.io/badge/CÓDIGO-9333EA?style=flat-square&logo=github&logoColor=white">
@@ -61,7 +61,7 @@ Soy estudiante de **Matemáticas Aplicadas y Ciencias de la Computación** en la
 
 <td align="center" width="50%">
 <h5>Detección de Aglomeraciones (Yolov11)</h5>
-<a href="https://github.com/CARLYGP/Crowd_Detection"><img src="crowd.png" width="400"></a>
+<a href="https://github.com/CARLYGP/Crowd_Detection"><img src="crowd.gif" width="400"></a>
 <br>
 <a href="https://github.com/CARLYGP/Crowd_Detection">
 <img src="https://img.shields.io/badge/CÓDIGO-F59E0B?style=flat-square&logo=github&logoColor=white">
@@ -119,7 +119,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 <tr>
 <td align="center" width="50%">
 <h5>3D Reconstruction and Indoor Object Detection </h5>
-<img src="indoor3d.png" width="350">
+<a href="https://github.com/CARLYGP/3d_Indoor_detection"><img src="indoor3d.gif" width="400"></a>
 <br>
 <a href="https://github.com/CARLYGP/3d_Indoor_detection">
 <img src="https://img.shields.io/badge/CODE-9333EA?style=flat-square&logo=github&logoColor=white">
@@ -128,7 +128,7 @@ I am a student of **Applied Mathematics and Computer Science** at the University
 
 <td align="center" width="50%">
 <h5>Crowd Detection (Yolov11)</h5>
-<a href="https://github.com/CARLYGP/Crowd_Detection"><img src="crowd.png" width="400"></a>
+<a href="https://github.com/CARLYGP/Crowd_Detection"><img src="crowd.gif" width="400"></a>
 <br>
 <a href="https://github.com/CARLYGP/Crowd_Detection">
 <img src="https://img.shields.io/badge/CODE-F59E0B?style=flat-square&logo=github&logoColor=white">
